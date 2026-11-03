@@ -1,0 +1,494 @@
+{
+ "route": "/events-turniere",
+ "title": "EVENTS & TURNIERE",
+ "height": 2293,
+ "background": "tennis",
+ "items": [
+  {
+   "t": "box",
+   "x": 0,
+   "y": 308,
+   "w": 980,
+   "h": 1953.5,
+   "s": {
+    "backgroundColor": "rgba(255, 255, 255, 0.6)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "box",
+   "x": 13,
+   "y": 328,
+   "w": 660,
+   "h": 1533.5,
+   "s": {
+    "backgroundColor": "rgb(248, 248, 248)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 37,
+   "y": 343,
+   "w": 615,
+   "h": 101,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><h2 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:33px;line-height:36.3px;color:rgb(29, 67, 121)\"><span style=\"letter-spacing:6.6px\"><span>DT - EVENTS &amp; TURNIERE&nbsp;</span></span></h2></div>"
+  },
+  {
+   "t": "box",
+   "x": 37,
+   "y": 399,
+   "w": 616,
+   "h": 5,
+   "s": {
+    "borderTop": "1px solid rgb(29, 67, 121)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "box",
+   "x": 37,
+   "y": 428,
+   "w": 219,
+   "h": 239,
+   "s": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderTop": "8px solid rgb(255, 255, 255)",
+    "borderRight": "8px solid rgb(255, 255, 255)",
+    "borderBottom": "8px solid rgb(255, 255, 255)",
+    "borderLeft": "8px solid rgb(255, 255, 255)",
+    "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 3px 0px",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "img",
+   "x": 45,
+   "y": 436,
+   "w": 203,
+   "h": 223,
+   "src": "/images/ostercamp.jpg",
+   "alt": "L1070481.jpg",
+   "img": {
+    "l": -65.3,
+    "t": 0.0,
+    "w": 333.6,
+    "h": 223.0
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 277,
+   "y": 418,
+   "w": 379,
+   "h": 255.3,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;line-height:24px;color:rgb(99, 99, 99)\"><span><span><span style=\"font-weight:700\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">25. - 28.03. &nbsp;+ &nbsp;02. - 05.04.: &nbsp;Ostercamps</span></span></span></span></h5>\n\n<p style=\"font-family:verdana, geneva, sans-serif;font-size:12px;line-height:15.6px;color:rgb(99, 99, 99)\"><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">(Anmeldefrist: 15</span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">. März per&nbsp;</span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">WhatsApp: 079 322 2626</span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">)</span></span></p>\n\n<p style=\"font-family:verdana, geneva, sans-serif;font-size:17px;line-height:22.1px;color:rgb(99, 99, 99)\">&nbsp;</p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:17px;line-height:20.4px;color:rgb(99, 99, 99)\"><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span>Vor Ostern führen wir bereits unser erstes Kinder- und Juniorencamp beim Club durch. Hierbei trainieren und spielen wir in verschiedenen Alters- und Spielkategorien. Mittagessen kann man beim Club bekommen. Die perfekte Gelegenheit in diesen Sport einzusteigen, oder um das bereits bestehende Niveau weiter anzuheben.&nbsp;</span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:17px;line-height:20.4px;color:rgb(99, 99, 99)\"><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span>Die verschiedenen Optionen samt Preise hierzu findet ihr unter Anmeldungen und Camps.</span></span></span></p></div>"
+  },
+  {
+   "t": "box",
+   "x": 40,
+   "y": 738.3,
+   "w": 616,
+   "h": 5,
+   "s": {
+    "borderTop": "1px dotted rgb(10, 190, 255)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "box",
+   "x": 37,
+   "y": 785.3,
+   "w": 199,
+   "h": 219,
+   "s": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderTop": "8px solid rgb(255, 255, 255)",
+    "borderRight": "8px solid rgb(255, 255, 255)",
+    "borderBottom": "8px solid rgb(255, 255, 255)",
+    "borderLeft": "8px solid rgb(255, 255, 255)",
+    "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 3px 0px",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "img",
+   "x": 45,
+   "y": 793.3,
+   "w": 183,
+   "h": 203,
+   "src": "/images/magnus-norman-clubjunioren.jpg",
+   "alt": "IMG-20151026-WA0001.jpg",
+   "img": {
+    "l": -43.8,
+    "t": 0.0,
+    "w": 270.7,
+    "h": 203.0
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 245,
+   "y": 775.3,
+   "w": 404,
+   "h": 255,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;line-height:24px;color:rgb(99, 99, 99)\"><span><span><span style=\"font-weight:700\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">29.06. - 03.07. und 03. - 07.08.: &nbsp;Sommercamps</span></span></span></span></h5>\n\n<p style=\"font-family:verdana, geneva, sans-serif;font-size:13px;line-height:16.9px;color:rgb(99, 99, 99)\"><span><span><span><span><span style=\"font-size:12px\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">(Anmeldefrist 1.&nbsp;</span></span><span style=\"font-size:12px\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Camp: 19.06.; Anmeldefrist </span></span><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span style=\"font-size:12px\">2. Camp: 25.07</span><span style=\"font-size:12px\">.</span></span><span style=\"font-size:12px\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">)</span></span></span></span></span></span></p>\n\n<p style=\"font-family:verdana, geneva, sans-serif;font-size:17px;line-height:20.4px;color:rgb(99, 99, 99)\">&nbsp;</p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:17px;line-height:20.4px;color:rgb(99, 99, 99)\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Während der Sommerferien finden die Sommercamps der Tennisschule statt. Geeignet für Einsteiger bis hin zum geübten Spieler um eine (oder zwei) Woche(n) lang(Mo-Fr) mit gleichgesinnten eine tolle Tenniszeit zu verbringen. Wir trainieren, spielen Matches, lernen Technik und Taktik im Einzel und Doppel und wer will kann </span></span><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span>dort&nbsp;</span></span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">auch zu Mittag essen.&nbsp;</span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:17px;line-height:20.4px;color:rgb(99, 99, 99)\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Daten, Optionen samt Preise hierzu findet ihr unter Anmeldungen und Camps.</span></span></span></p></div>"
+  },
+  {
+   "t": "box",
+   "x": 40,
+   "y": 1090.3,
+   "w": 616,
+   "h": 5,
+   "s": {
+    "borderTop": "1px dotted rgb(10, 190, 255)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 41,
+   "y": 1123.3,
+   "w": 348,
+   "h": 305,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;line-height:24px;color:rgb(99, 99, 99)\"><span style=\"font-weight:700\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">10.</span>&nbsp;<span style=\"font-family:&quot;times new roman&quot;, times, serif\">Juni 2026&nbsp;</span></span><span><span><span style=\"font-weight:700\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">&nbsp;- &nbsp;Juniorengrill</span></span></span></span></h5>\n\n<p style=\"font-family:verdana, geneva, sans-serif;font-size:12px;line-height:15.6px;color:rgb(99, 99, 99)\"><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span>​</span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Die Tennisschule organisiert den Junioren-Grill, d.h. Nachmittags-Turnier mit anschl. Grillabend.&nbsp;</span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:14px;line-height:18.2px;color:rgb(99, 99, 99)\"><span><span style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:16px\">Dieser ist immer sehr beliebt mit vielen Meldungen, wobei in 6 Kategorien zwischen 6 und 14 Jahren um Medaillen und Naturalpreise gespielt wird. B</span><span style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:16px\">eim Grill im Anschluss treffen sich auch die Eltern der Kinder und unterhalten sich bei Wurst, Salat und Trank, während die Kinder den Abend miteinander spielend auf dem Tennisplatz ausklingen lassen.</span></span></p></div>"
+  },
+  {
+   "t": "html",
+   "k": "button",
+   "x": 139,
+   "y": 1369.3,
+   "w": 142,
+   "h": 40,
+   "html": "<a href=\"/files/juniorengrill-anmeldung-events.pdf\" target=\"_blank\" aria-label=\"Anmeldung\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(43, 101, 181);display:block;box-sizing:border-box;width:100%;height:100%\"><span style=\"display:flex;align-items:center;justify-content:center;height:40px\"><span style=\"font-family:verdana, geneva, sans-serif;font-size:12px;letter-spacing:1.2px;color:rgb(248, 248, 248);text-align:center;white-space:nowrap;margin-right:4px;display:block\">Anmeldung</span></span></a>",
+   "hover": "<a href=\"/files/juniorengrill-anmeldung-events.pdf\" target=\"_blank\" aria-label=\"Anmeldung\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(128, 160, 206);display:block;box-sizing:border-box;width:100%;height:100%\"><span style=\"display:flex;align-items:center;justify-content:center;height:40px\"><span style=\"font-family:verdana, geneva, sans-serif;font-size:12px;letter-spacing:1.2px;color:rgb(248, 248, 248);text-align:center;white-space:nowrap;margin-right:4px;display:block\">Anmeldung</span></span></a>"
+  },
+  {
+   "t": "box",
+   "x": 425,
+   "y": 1117.3,
+   "w": 207,
+   "h": 131,
+   "s": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderTop": "8px solid rgb(255, 255, 255)",
+    "borderRight": "8px solid rgb(255, 255, 255)",
+    "borderBottom": "8px solid rgb(255, 255, 255)",
+    "borderLeft": "8px solid rgb(255, 255, 255)",
+    "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 3px 0px",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "img",
+   "x": 433,
+   "y": 1125.3,
+   "w": 191,
+   "h": 115,
+   "src": "/images/juniorengrill-1.jpg",
+   "alt": "IMG-20210916-WA0004.jpg",
+   "img": {
+    "l": 0.0,
+    "t": -14.1,
+    "w": 191.0,
+    "h": 143.2
+   }
+  },
+  {
+   "t": "img",
+   "x": 467,
+   "y": 1297.3,
+   "w": 122,
+   "h": 164,
+   "src": "/images/juniorengrill-2.jpg",
+   "alt": "IMG-20210916-WA0001.jpg",
+   "img": {
+    "l": -0.5,
+    "t": 0.0,
+    "w": 123.0,
+    "h": 164.0
+   }
+  },
+  {
+   "t": "box",
+   "x": 40,
+   "y": 1481.3,
+   "w": 616,
+   "h": 5,
+   "s": {
+    "borderTop": "1px dotted rgb(10, 190, 255)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "box",
+   "x": 40,
+   "y": 1534.3,
+   "w": 181,
+   "h": 201,
+   "s": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderTop": "8px solid rgb(255, 255, 255)",
+    "borderRight": "8px solid rgb(255, 255, 255)",
+    "borderBottom": "8px solid rgb(255, 255, 255)",
+    "borderLeft": "8px solid rgb(255, 255, 255)",
+    "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 3px 0px",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "img",
+   "x": 48,
+   "y": 1542.3,
+   "w": 165,
+   "h": 185,
+   "src": "/images/herbstcamp.jpg",
+   "alt": "L1070489.jpg",
+   "img": {
+    "l": -55.9,
+    "t": 0.0,
+    "w": 276.7,
+    "h": 185.0
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 237,
+   "y": 1532.3,
+   "w": 421,
+   "h": 249.2,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;line-height:24px;color:rgb(99, 99, 99)\"><span><span><span style=\"font-weight:700\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">28.09. - 02.10. + 05.10. - 09.10.: &nbsp;Herbstcamps</span></span></span></span></h5>\n\n<p style=\"font-family:verdana, geneva, sans-serif;font-size:13px;line-height:16.9px;color:rgb(99, 99, 99)\"><span><span><span><span><span style=\"font-size:12px\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">(Anmeldefrist für beide Camps ist der 20. September)</span></span></span></span></span></span></p>\n\n<p style=\"font-family:verdana, geneva, sans-serif;font-size:12px;line-height:15.6px;color:rgb(99, 99, 99)\">&nbsp;</p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:17px;line-height:20.4px;color:rgb(99, 99, 99)\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Die Preise zu den Camps findet ihr unter Anmeldungen und Camps.</span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:17px;line-height:20.4px;color:rgb(99, 99, 99)\"><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span>Mit den letzten beiden Camps hört die offizielle Sommersaison des Kinder- und Junioren-Trainings dann auf. Einzel- und Gruppenkurse gehen danach natürlich weiter, solange es das Wetter erlaubt. Danach wird das Mittwochs- Kindertraining während der Wintersaison in die 99er-Sporthalle in Therwil verlegt.&nbsp;</span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:17px;line-height:20.4px;color:rgb(99, 99, 99)\"><span>​</span></p></div>"
+  },
+  {
+   "t": "box",
+   "x": 40,
+   "y": 1828.5,
+   "w": 616,
+   "h": 5,
+   "s": {
+    "borderTop": "1px dotted rgb(10, 190, 255)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "box",
+   "x": 672,
+   "y": 329,
+   "w": 271,
+   "h": 1407,
+   "s": {
+    "backgroundColor": "rgba(248, 248, 248, 0.7)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "box",
+   "x": 687,
+   "y": 344,
+   "w": 240,
+   "h": 365,
+   "s": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderTop": "8px solid rgb(255, 255, 255)",
+    "borderRight": "8px solid rgb(255, 255, 255)",
+    "borderBottom": "8px solid rgb(255, 255, 255)",
+    "borderLeft": "8px solid rgb(255, 255, 255)",
+    "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 3px 0px",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "img",
+   "x": 695,
+   "y": 352,
+   "w": 224,
+   "h": 349,
+   "src": "/images/senioren-team.jpg",
+   "alt": "IMG-20171102-WA0000.jpg",
+   "img": {
+    "l": -198.4,
+    "t": 0.0,
+    "w": 620.7,
+    "h": 349.0
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 688,
+   "y": 727,
+   "w": 240,
+   "h": 49,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;color:rgb(99, 99, 99)\"><span style=\"font-weight:700\">Lokale Tennisevents</span></h5>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;color:rgb(99, 99, 99)\">&nbsp;</p></div>"
+  },
+  {
+   "t": "box",
+   "x": 687,
+   "y": 758,
+   "w": 240,
+   "h": 5,
+   "s": {
+    "borderTop": "1px solid rgb(99, 99, 99)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 687,
+   "y": 793,
+   "w": 240,
+   "h": 96.2,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span><span style=\"color:rgb(10, 190, 255)\">noch offen</span><br>\n&nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:14px;line-height:18.2px;color:rgb(99, 99, 99)\"><span>Swisstennis Tagesturnier für alle die gerne Turnier spielen.&nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:14px;line-height:18.2px;color:rgb(99, 99, 99)\"><span>Anmeldung über&nbsp;<span style=\"text-decoration-line:underline;text-decoration-color:rgb(99, 99, 99);text-decoration-style:solid\"><a href=\"http://www.swisstennis.ch/\" target=\"_blank\" rel=\"noreferrer noopener\">Swisstennis.ch</a></span></span></p></div>"
+  },
+  {
+   "t": "box",
+   "x": 687,
+   "y": 912.2,
+   "w": 240,
+   "h": 5,
+   "s": {
+    "borderTop": "1px dotted rgb(10, 190, 255)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 688,
+   "y": 937.2,
+   "w": 240,
+   "h": 59.8,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span><span style=\"color:rgb(10, 190, 255)\">Juni 2026</span><br>\n&nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:14px;line-height:18.2px;color:rgb(99, 99, 99)\"><span>Junioren-Interclub</span></p></div>"
+  },
+  {
+   "t": "box",
+   "x": 687,
+   "y": 1009,
+   "w": 240,
+   "h": 5,
+   "s": {
+    "borderTop": "1px dotted rgb(10, 190, 255)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 687,
+   "y": 1024,
+   "w": 240,
+   "h": 104,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span><span style=\"color:rgb(10, 190, 255)\">10.06.2026</span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span><span>​</span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span>1. Juniorengrill: Juniorenturnier &nbsp; &nbsp; mit anschliessendem Grill- &nbsp; &nbsp; &nbsp; &nbsp; abend (auch für Angehörige)</span></p></div>"
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 687,
+   "y": 1146,
+   "w": 240,
+   "h": 59.8,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span><span style=\"color:rgb(10, 190, 255)\">Noch offen</span><br>\n&nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:14px;line-height:18.2px;color:rgb(99, 99, 99)\"><span>Einzelclubmeisterschaft TCL</span></p></div>"
+  },
+  {
+   "t": "box",
+   "x": 687,
+   "y": 1218.8,
+   "w": 240,
+   "h": 5,
+   "s": {
+    "borderTop": "1px dotted rgb(10, 190, 255)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 687,
+   "y": 1236.8,
+   "w": 240,
+   "h": 59.8,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span><span style=\"color:rgb(10, 190, 255)\">31.08. - 06.09. 2026</span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span><span style=\"color:rgb(10, 190, 255)\"><span>​</span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:14px;line-height:18.2px;color:rgb(99, 99, 99)\"><span>Junioren-Clubmeisterschaften TCL</span></p></div>"
+  },
+  {
+   "t": "box",
+   "x": 687,
+   "y": 1324.6,
+   "w": 240,
+   "h": 5,
+   "s": {
+    "borderTop": "1px dotted rgb(10, 190, 255)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 687,
+   "y": 1347.6,
+   "w": 240,
+   "h": 59.8,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span><span style=\"color:rgb(10, 190, 255)\">Noch offen</span><br>\n&nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:14px;line-height:18.2px;color:rgb(99, 99, 99)\"><span>Doppelclubmeisterschaften TCL</span></p></div>"
+  },
+  {
+   "t": "box",
+   "x": 687,
+   "y": 1434.4,
+   "w": 240,
+   "h": 5,
+   "s": {
+    "borderTop": "1px dotted rgb(10, 190, 255)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "box",
+   "x": 688,
+   "y": 1465.4,
+   "w": 240,
+   "h": 5,
+   "s": {
+    "borderTop": "1px dotted rgb(10, 190, 255)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "box",
+   "x": 687,
+   "y": 1500.4,
+   "w": 240,
+   "h": 5,
+   "s": {
+    "borderTop": "1px dotted rgb(10, 190, 255)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "box",
+   "x": -230,
+   "y": 1861.5,
+   "w": 1440,
+   "h": 400,
+   "s": {
+    "backgroundColor": "rgb(250, 250, 250)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "box",
+   "x": 0,
+   "y": 2261.5,
+   "w": 980,
+   "h": 32,
+   "s": {
+    "backgroundColor": "rgba(255, 255, 255, 0.6)",
+    "boxSizing": "border-box"
+   }
+  }
+ ]
+}

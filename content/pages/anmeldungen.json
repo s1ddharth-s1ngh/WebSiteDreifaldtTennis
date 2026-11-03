@@ -1,0 +1,292 @@
+{
+ "route": "/anmeldungen",
+ "title": "ANMELDUNGEN",
+ "height": 1238,
+ "background": "tennis",
+ "items": [
+  {
+   "t": "box",
+   "x": 0,
+   "y": 308,
+   "w": 980,
+   "h": 898.4,
+   "s": {
+    "backgroundColor": "rgba(255, 255, 255, 0.6)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 40,
+   "y": 339,
+   "w": 624,
+   "h": 36.3,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><h2 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:33px;line-height:36.3px;color:rgb(29, 67, 121)\"><span style=\"letter-spacing:6.6px\"><span>ANMELDUNGEN</span></span></h2></div>"
+  },
+  {
+   "t": "box",
+   "x": -2,
+   "y": 400.3,
+   "w": 660,
+   "h": 624,
+   "s": {
+    "backgroundColor": "rgb(248, 248, 248)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "box",
+   "x": 22,
+   "y": 471.3,
+   "w": 625,
+   "h": 5,
+   "s": {
+    "borderTop": "1px solid rgb(29, 67, 121)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 13,
+   "y": 493.3,
+   "w": 374,
+   "h": 498,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;color:rgb(99, 99, 99);text-align:center\"><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Willkommen bei Dreifaldt-Tennis</span></span></h5>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;color:rgb(99, 99, 99);text-align:center\"><br>\n<span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Hier finden Sie sämtliche Infofly</span></span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">er samt der dazugehörigen Anmeldeformulare der Tennisschule. &nbsp;Dies beinhaltet Gruppen-, Einzel- oder Privatunterricht, &nbsp;Junioren- und KIDS, Clubinterne (von der Tennisschule organisierte) Turniere, Events und Feriencamps.</span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;color:rgb(99, 99, 99);text-align:center\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span>​</span></span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;color:rgb(99, 99, 99);text-align:center\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Klicken Sie einfach nebenan auf das gewünschte Feld, und es ist zum Download bereit.</span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;color:rgb(99, 99, 99);text-align:center\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span>​</span></span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;color:rgb(99, 99, 99);text-align:center\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Falls Fragen auftauchen sollten, kann unten auch eine Mitteilung mit Euren Kontaktdaten abgesendet werden, auf die wir uns entweder per Mail oder auch telefonisch melden würden.</span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;color:rgb(99, 99, 99);text-align:center\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span>​</span></span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;color:rgb(99, 99, 99);text-align:center\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Mit allerbesten Grüssen</span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;color:rgb(99, 99, 99);text-align:center\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span><span>​</span>​</span></span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;color:rgb(99, 99, 99);text-align:center\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">&nbsp;&nbsp;</span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;color:rgb(99, 99, 99);text-align:center\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span>​</span></span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;color:rgb(99, 99, 99);text-align:center\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Hansi Dreifaldt</span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;color:rgb(99, 99, 99);text-align:center\"><span><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Leiter der Tennisschule</span></span></span></p></div>"
+  },
+  {
+   "t": "img",
+   "x": 142,
+   "y": 867.3,
+   "w": 116,
+   "h": 47,
+   "src": "/images/unterschrift-hansi.jpg",
+   "alt": "20210217_114914.jpeg",
+   "img": {
+    "l": -4.6,
+    "t": 0.0,
+    "w": 125.1,
+    "h": 47.0
+   }
+  },
+  {
+   "t": "box",
+   "x": 394,
+   "y": 496.3,
+   "w": 237,
+   "h": 371,
+   "s": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "borderTop": "8px solid rgb(255, 255, 255)",
+    "borderRight": "8px solid rgb(255, 255, 255)",
+    "borderBottom": "8px solid rgb(255, 255, 255)",
+    "borderLeft": "8px solid rgb(255, 255, 255)",
+    "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 3px 0px",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "img",
+   "x": 402,
+   "y": 504.3,
+   "w": 221,
+   "h": 355,
+   "src": "/images/hansi-und-francesca.jpg",
+   "alt": "IMG-20200823-WA0008.jpg",
+   "img": {
+    "l": -236.9,
+    "t": 0.0,
+    "w": 815.1,
+    "h": 611.3
+   }
+  },
+  {
+   "t": "box",
+   "x": 680,
+   "y": 328,
+   "w": 281,
+   "h": 624,
+   "s": {
+    "backgroundColor": "rgb(248, 248, 248)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "html",
+   "k": "button",
+   "x": 688,
+   "y": 411,
+   "w": 255,
+   "h": 45,
+   "html": "<a href=\"/files/feriencamps-anmeldung-2026.pdf\" target=\"_blank\" aria-label=\"Feriencamps: Anmeldung\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(136, 194, 37);background-image:url(&quot;/images/wix-b9aacecf.png&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Feriencamps: Anmeldung</span></a>",
+   "hover": "<a href=\"/files/feriencamps-anmeldung-2026.pdf\" target=\"_blank\" aria-label=\"Feriencamps: Anmeldung\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(149, 149, 149);background-image:url(&quot;/images/wix-b9aacecf.png&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Feriencamps: Anmeldung</span></a>"
+  },
+  {
+   "t": "html",
+   "k": "button",
+   "x": 688,
+   "y": 480,
+   "w": 255,
+   "h": 45,
+   "html": "<a href=\"/files/campinfos-zeiten-preise.pdf\" target=\"_blank\" aria-label=\"Campinfos: Zeiten/ Preise\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(136, 194, 37);background-image:url(&quot;/images/wix-b9aacecf.png&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Campinfos: Zeiten/ Preise</span></a>",
+   "hover": "<a href=\"/files/campinfos-zeiten-preise.pdf\" target=\"_blank\" aria-label=\"Campinfos: Zeiten/ Preise\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(149, 149, 149);background-image:url(&quot;/images/wix-b9aacecf.png&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Campinfos: Zeiten/ Preise</span></a>"
+  },
+  {
+   "t": "html",
+   "k": "button",
+   "x": 690,
+   "y": 539,
+   "w": 255,
+   "h": 45,
+   "html": "<a href=\"/files/sommercampflyer-2026.pdf\" target=\"_blank\" aria-label=\"Sommercampflyer 2026\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(253, 247, 51);display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:raleway, sans-serif;font-size:15px;font-weight:700;line-height:21px;color:rgb(0, 0, 0);white-space:nowrap;display:block\">Sommercampflyer 2026</span></a>",
+   "hover": "<a href=\"/files/sommercampflyer-2026.pdf\" target=\"_blank\" aria-label=\"Sommercampflyer 2026\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(0, 0, 0);display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:raleway, sans-serif;font-size:15px;font-weight:700;line-height:21px;color:rgb(253, 247, 51);white-space:nowrap;display:block\">Sommercampflyer 2026</span></a>"
+  },
+  {
+   "t": "html",
+   "k": "button",
+   "x": 693,
+   "y": 602,
+   "w": 255,
+   "h": 45,
+   "html": "<a href=\"/files/kids-schnupperkurse.pdf\" target=\"_blank\" aria-label=\"KIDS- Schnupperkurse\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(136, 194, 37);background-image:url(&quot;/images/wix-b9aacecf.png&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">KIDS- Schnupperkurse</span></a>",
+   "hover": "<a href=\"/files/kids-schnupperkurse.pdf\" target=\"_blank\" aria-label=\"KIDS- Schnupperkurse\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(149, 149, 149);background-image:url(&quot;/images/wix-b9aacecf.png&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">KIDS- Schnupperkurse</span></a>"
+  },
+  {
+   "t": "html",
+   "k": "button",
+   "x": 693,
+   "y": 665,
+   "w": 255,
+   "h": 45,
+   "html": "<a href=\"/files/anmeldung-juniorengrill.pdf\" target=\"_blank\" aria-label=\"Anmeldung Juniorengrill\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(136, 194, 37);background-image:url(&quot;/images/wix-b9aacecf.png&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Anmeldung Juniorengrill</span></a>",
+   "hover": "<a href=\"/files/anmeldung-juniorengrill.pdf\" target=\"_blank\" aria-label=\"Anmeldung Juniorengrill\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(149, 149, 149);background-image:url(&quot;/images/wix-b9aacecf.png&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Anmeldung Juniorengrill</span></a>"
+  },
+  {
+   "t": "html",
+   "k": "button",
+   "x": 693,
+   "y": 734,
+   "w": 255,
+   "h": 45,
+   "html": "<a href=\"/files/anmeldung-wintertraining-2026.pdf\" target=\"_blank\" aria-label=\"Anmeldung Wintertraining\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(136, 194, 37);background-image:url(&quot;/images/wix-b9aacecf.png&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Anmeldung Wintertraining</span></a>",
+   "hover": "<a href=\"/files/anmeldung-wintertraining-2026.pdf\" target=\"_blank\" aria-label=\"Anmeldung Wintertraining\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(149, 149, 149);background-image:url(&quot;/images/wix-b9aacecf.png&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Anmeldung Wintertraining</span></a>"
+  },
+  {
+   "t": "html",
+   "k": "button",
+   "x": 690,
+   "y": 349,
+   "w": 255,
+   "h": 45,
+   "html": "<a href=\"/files/anmeldeflyer-herbst-2026.pdf\" target=\"_blank\" aria-label=\"Anmeldeflyer Herbst 2026\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(136, 194, 37);background-image:url(&quot;/images/wix-b9aacecf.png&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Anmeldeflyer Herbst 2026</span></a>",
+   "hover": "<a href=\"/files/anmeldeflyer-herbst-2026.pdf\" target=\"_blank\" aria-label=\"Anmeldeflyer Herbst 2026\" style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(149, 149, 149);background-image:url(&quot;/images/wix-b9aacecf.png&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Anmeldeflyer Herbst 2026</span></a>"
+  },
+  {
+   "t": "box",
+   "x": 13,
+   "y": 962.3,
+   "w": 944,
+   "h": 244.1,
+   "s": {
+    "backgroundColor": "rgb(248, 248, 248)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 37,
+   "y": 982.3,
+   "w": 245,
+   "h": 124.8,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;color:rgb(99, 99, 99)\"><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Für weitere Informationen:</span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><br>\n<span><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span>Kontaktieren Sie uns&nbsp;</span></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Mo-Fr 8:00 - 20:00</span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:14px;line-height:18.2px;color:rgb(99, 99, 99)\"><span style=\"font-size:16px\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">079 322 2626</span></span><br>\n<span style=\"font-size:16px\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><a href=\"mailto:tshd@bluewin.ch\">tshd@bluewin.ch</a></span></span></p></div>"
+  },
+  {
+   "t": "box",
+   "x": 277,
+   "y": 984.3,
+   "w": 2,
+   "h": 175,
+   "s": {
+    "borderLeft": "1px dotted rgb(173, 233, 255)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 313,
+   "y": 984.3,
+   "w": 625,
+   "h": 23.1,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:17px;line-height:22.1px;color:rgb(99, 99, 99)\"><span><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span style=\"color:rgb(7, 126, 170)\">Mit diesem Formular können Sie mehr Informationen anfordern:</span></span></span></p></div>"
+  },
+  {
+   "t": "form",
+   "x": 313,
+   "y": 1023.4,
+   "w": 629,
+   "h": 141.0,
+   "items": [
+    {
+     "t": "html",
+     "k": "input",
+     "x": 0,
+     "y": 0.0,
+     "w": 315,
+     "h": 30,
+     "html": "<input placeholder=\"Name, Vorname\" type=\"text\" name=\"name,-vorname\" data-ph=\"color:rgb(99, 99, 99);font-family:&quot;open sans&quot;, sans-serif;font-size:14px\" style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:14px;font-weight:400;font-style:normal;line-height:18.2px;letter-spacing:normal;color:rgb(50, 50, 50);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(198, 198, 198);padding-top:3px;padding-right:3px;padding-bottom:3px;padding-left:24px;display:inline-block;width:315px;height:30px;box-sizing:border-box;width:100%;height:100%\">"
+    },
+    {
+     "t": "html",
+     "k": "input",
+     "x": 0,
+     "y": 34.0,
+     "w": 315,
+     "h": 30,
+     "html": "<input placeholder=\"Email\" type=\"email\" name=\"email\" data-ph=\"color:rgb(99, 99, 99);font-family:&quot;open sans&quot;, sans-serif;font-size:14px\" style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:14px;font-weight:400;font-style:normal;line-height:18.2px;letter-spacing:normal;color:rgb(50, 50, 50);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(198, 198, 198);padding-top:3px;padding-right:3px;padding-bottom:3px;padding-left:24px;display:inline-block;width:315px;height:30px;box-sizing:border-box;width:100%;height:100%\">"
+    },
+    {
+     "t": "html",
+     "k": "input",
+     "x": 0,
+     "y": 70.0,
+     "w": 315,
+     "h": 30,
+     "html": "<input placeholder=\"Telefonnummer\" type=\"tel\" name=\"phone\" data-ph=\"color:rgb(99, 99, 99);font-family:&quot;open sans&quot;, sans-serif;font-size:14px\" style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:14px;font-weight:400;font-style:normal;line-height:18.2px;letter-spacing:normal;color:rgb(50, 50, 50);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(198, 198, 198);padding-top:3px;padding-right:3px;padding-bottom:3px;padding-left:24px;display:inline-block;width:315px;height:30px;box-sizing:border-box;width:100%;height:100%\">"
+    },
+    {
+     "t": "html",
+     "k": "textarea",
+     "x": 320,
+     "y": 0.0,
+     "w": 309,
+     "h": 97,
+     "html": "<textarea name=\"nachricht\" placeholder=\"Schreiben Sie die Nachricht hier...\" data-ph=\"color:rgb(99, 99, 99);font-family:&quot;open sans&quot;, sans-serif;font-size:14px\" style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:14px;font-weight:400;font-style:normal;line-height:18.2px;letter-spacing:normal;color:rgb(50, 50, 50);text-align:start;text-transform:none;text-shadow:none;white-space:pre-wrap;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(198, 198, 198);padding-top:10.5px;padding-right:10px;padding-bottom:3px;padding-left:24px;display:block;width:309px;height:97px;box-sizing:border-box;width:100%;height:100%\"></textarea>"
+    },
+    {
+     "t": "html",
+     "k": "button",
+     "x": 462,
+     "y": 109.0,
+     "w": 164,
+     "h": 32,
+     "html": "<button type=\"submit\" aria-label=\"Nachricht senden\" style=\"font-family:Arial;font-size:13.3333px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(136, 194, 37);background-image:url(&quot;/images/wix-b9aacecf.png&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;width:164px;height:32px;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Nachricht senden</span></button>",
+     "hover": "<button aria-label=\"Nachricht senden\" style=\"font-family:Arial;font-size:13.3333px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;background-color:rgb(149, 149, 149);background-image:url(&quot;/images/wix-b9aacecf.png&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;width:164px;height:32px;box-sizing:border-box;width:100%;height:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Nachricht senden</span></button>"
+    }
+   ]
+  },
+  {
+   "t": "box",
+   "x": 0,
+   "y": 1206.4,
+   "w": 980,
+   "h": 32,
+   "s": {
+    "backgroundColor": "rgba(255, 255, 255, 0.6)",
+    "boxSizing": "border-box"
+   }
+  }
+ ]
+}

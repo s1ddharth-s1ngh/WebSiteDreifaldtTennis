@@ -1,0 +1,62 @@
+/* Schriften wie auf der Wix-Seite (gleiche Familiennamen, damit die übernommenen Stile greifen) */
+@font-face { font-family: "wfont_f4d24a_d54bfc06b65948b89fecccc730a03ad6"; src: url("/fonts/academic-m54.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "wf_d54bfc06b65948b89fecccc73"; src: url("/fonts/academic-m54.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "noticia text"; font-weight: 400; src: url("/fonts/noticia-text-400.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "noticia text"; font-weight: 700; src: url("/fonts/noticia-text-700.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "noticia text"; font-weight: 400; font-style: italic; src: url("/fonts/noticia-text-400i.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "noticia text"; font-weight: 700; font-style: italic; src: url("/fonts/noticia-text-700i.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "open sans"; font-weight: 400; src: url("/fonts/open-sans-400.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "open sans"; font-weight: 700; src: url("/fonts/open-sans-700.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "open sans"; font-weight: 400; font-style: italic; src: url("/fonts/open-sans-400i.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "open sans"; font-weight: 700; font-style: italic; src: url("/fonts/open-sans-700i.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "poppins-extralight"; font-weight: 400; src: url("/fonts/poppins-extralight-400.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "poppins-extralight"; font-weight: 700; src: url("/fonts/poppins-extralight-700.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "poppins-extralight"; font-weight: 400; font-style: italic; src: url("/fonts/poppins-extralight-400i.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "poppins-extralight"; font-weight: 700; font-style: italic; src: url("/fonts/poppins-extralight-700i.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "raleway"; font-weight: 100 900; src: url("/fonts/raleway.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "raleway"; font-weight: 100 900; font-style: italic; src: url("/fonts/raleway-italic.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "lobster"; src: url("/fonts/lobster-400.woff2") format("woff2"); font-display: swap; }
+/* Lizenzierte Wix-Schriften (Monotype): lokale Systemschriften als Ersatz */
+@font-face { font-family: "avenir-lt-w01_35-light1475496"; src: local("Avenir Light"), local("Avenir-Light"), local("Avenir Next"), local("Segoe UI"); }
+@font-face { font-family: "futura-lt-w01-light"; src: local("Futura Light"), local("Futura-Light"), local("Futura"), local("Century Gothic"); }
+@font-face { font-family: "helvetica-w01-bold"; src: local("Helvetica Bold"), local("Helvetica-Bold"), local("Arial Bold"), local("Arial-BoldMT"); }
+
+html, body { margin: 0; }
+body { min-width: 980px; background: #fff; overflow-x: auto; }
+
+/* Hintergrund (fixiert, wie bei Wix) */
+.wx-bg { position: fixed; inset: 0; z-index: -1; }
+.wx-bg video { width: 100%; height: 100%; object-fit: cover; }
+
+/* 980px-Leinwand; Elemente sind absolut positioniert */
+.wx-page { position: relative; width: 980px; margin: 0 auto; }
+/* Die übernommenen Inline-Stile enthalten nur Abweichungen: Browser-Standards neutralisieren */
+.wx-page * { margin: 0; padding: 0; border: 0; background: none; font: inherit; color: inherit; text-decoration: none; }
+.wx-page ul, .wx-page ol { list-style: none; }
+.wx-page :is(input, textarea) { box-sizing: border-box; outline: none; resize: none; }
+.wx-page :is(input, textarea)::placeholder { color: rgb(99, 99, 99); opacity: 1; }
+.wx-page button { cursor: pointer; }
+.wx-fill { width: 100%; height: 100%; }
+
+/* Hover-Zustand der Buttons */
+.wx-hv .wx-h { display: none; }
+.wx-hv:hover .wx-n { display: none; }
+.wx-hv:hover .wx-h { display: block; }
+
+/* Menü */
+.wx-menu { position: absolute; top: 242px; height: 51px; z-index: 10; background: rgb(43, 101, 181); }
+.wx-menu ul { display: flex; height: 100%; }
+.wx-menu li { position: relative; text-align: center; }
+.wx-menu a { display: block; font-family: "noticia text", serif; font-size: 11px; line-height: 51px; color: #fff; white-space: nowrap; }
+.wx-menu li:hover > a, .wx-menu li.active > a { color: rgb(172, 196, 230); }
+.wx-menu .wx-sub { display: none; position: absolute; top: 51px; left: 50%; transform: translateX(-50%); min-width: 100%; height: auto; padding-top: 7px; }
+.wx-menu li:hover > .wx-sub { display: block; }
+.wx-menu .wx-sub a { line-height: 26px; padding: 0 6px; background: rgb(43, 101, 181); }
+.wx-menu .wx-sub a:hover, .wx-menu .wx-sub a[aria-current] { color: rgb(172, 196, 230); }
+
+/* Chat-Button unten rechts (öffnet WhatsApp) */
+.wx-chat {
+  position: fixed; right: 20px; bottom: 0; z-index: 20; display: flex; align-items: center; gap: 12px;
+  height: 56px; padding: 0 22px 0 18px; border-radius: 8px 8px 0 0; background: rgb(29, 67, 121);
+  color: #fff; font: 700 17px "times new roman", times, serif; text-decoration: none; box-shadow: 0 0 6px rgba(0, 0, 0, .25);
+}

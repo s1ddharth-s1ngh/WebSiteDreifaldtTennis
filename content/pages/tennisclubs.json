@@ -1,0 +1,39 @@
+{
+ "route": "/tennisclubs",
+ "title": "TENNISCLUBS",
+ "height": 900,
+ "background": "tennis",
+ "items": [
+  {
+   "t": "box",
+   "x": 0,
+   "y": 308,
+   "w": 980,
+   "h": 501,
+   "s": {
+    "backgroundColor": "rgba(255, 255, 255, 0.6)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 100,
+   "y": 526,
+   "w": 755,
+   "h": 232,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;display:block;width:100%\"><h1 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:19px;color:rgb(29, 67, 121)\"><span><span><span><span style=\"font-weight:700\"><span><span style=\"font-size:50px\"><span style=\"text-shadow:rgb(255, 255, 255) 3px 3px 0px, rgba(0, 0, 0, 0.2) 6px 6px 0px\">Dreifaldt Tennis ist beim Tennisclub TC Leimental ansässig. </span></span></span></span></span></span><span><span><span style=\"font-weight:700\"><span><span style=\"font-size:50px\"><span style=\"text-shadow:rgb(255, 255, 255) 3px 3px 0px, rgba(0, 0, 0, 0.2) 6px 6px 0px\">Adresse: Birsmattweg 60,<br>\n&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 4106 Therwil</span></span></span></span></span></span></span></h1></div>"
+  },
+  {
+   "t": "box",
+   "x": 0,
+   "y": 809,
+   "w": 980,
+   "h": 32,
+   "s": {
+    "backgroundColor": "rgba(255, 255, 255, 0.6)",
+    "boxSizing": "border-box"
+   }
+  }
+ ]
+}
