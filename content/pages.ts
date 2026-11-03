@@ -10,7 +10,7 @@ import miami from "./pages/miami.json";
 import ueberUns from "./pages/ueber-uns.json";
 import kontakt from "./pages/kontaktieren-sie-uns.json";
 
-export const siteUrl = "https://www.dreifaldt-tennis.com";
+export const siteUrl = "https://s1ddharth-s1ngh.github.io/WebSiteDreifaldtTennis";
 
 export const pages = [
   home,

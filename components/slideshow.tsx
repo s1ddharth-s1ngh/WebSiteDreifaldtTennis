@@ -2,6 +2,7 @@
 // Wix Pro-Gallery "Slideshow": wechselt alle 3 s, Pfeil = nächstes Bild.
 import Image from "next/image";
 import { useEffect, useState, type CSSProperties } from "react";
+import { url } from "./base-path";
 
 export type Slide = { src: string; alt: string; w: number; h: number; img: { l: number; t: number; w: number; h: number } };
 type Arrow = { x: number; y: number; w: number; h: number; html: string };
@@ -22,7 +23,7 @@ export function Slideshow({ images, arrow, style, eager }: { images: Slide[]; ar
         {images.map((s, n) => (
           <div key={s.src} style={{ position: "relative", flex: "none", width: s.w, height: s.h, overflow: "hidden" }}>
             <Image
-              src={s.src}
+              src={url(s.src)}
               alt={s.alt}
               width={Math.round(s.img.w)}
               height={Math.round(s.img.h)}

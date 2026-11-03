@@ -10,13 +10,13 @@ Portare il sito https://www.dreifaldt-tennis.com (oggi su Wix) in un progetto Ne
 - Ogni pagina è un file `content/pages/<slug>.json`: elenco di blocchi con posizione assoluta su una tela di 980 px (come Wix desktop). Tipi: `box` (sfondi, linee, bordi), `html` (testi e pulsanti con stili inline misurati dal sito live; `hover` = stato al passaggio del mouse), `img` (con ritaglio calcolato), `slides` (galleria), `iframe`, `form`.
 - `content/header.json`: header comune (logo e voci di menu). Il menu con i sottomenu (Tennisclubs, Kontaktieren Sie uns) è in `components/wix.tsx`.
 - Rendering: `components/wix.tsx`, route unica `app/[[...slug]]/page.tsx`.
-- Font: in `public/fonts` con gli stessi nomi di famiglia usati da Wix. Avenir, Futura e Helvetica sono font Monotype con licenza Wix: sostituiti da font di sistema.
+- Font: in `app/fonts` con gli stessi nomi di famiglia usati da Wix. Avenir, Futura e Helvetica sono font Monotype con licenza Wix: sostituiti da font di sistema.
 - Differenze note: la mappa Google è un embed standard (non il widget Wix); la chat Wix è sostituita da un pulsante identico che apre WhatsApp; il form invia via `mailto:`; su smartphone si vede la versione desktop rimpicciolita (Wix ha un layout mobile separato, non ancora copiato).
 
 ## Stato attuale
 - Lo scraping è completo ed è in `scrape/` (circa 40 MB, **non versionato**).
 - Lo script è `scripts/scrape-wix.cjs`. Si rilancia con `npm i -D playwright`, poi `node scripts/scrape-wix.cjs scrape`. Su Windows senza Chromium installato aggiungere `PW_CHANNEL=msedge`. Impiega circa 30 secondi.
-- Hosting: GitHub Pages (export statico `out/`, deploy automatico a ogni push su `main` con `.github/workflows/deploy.yml`). I vecchi URL Wix `/über-uns` e `/miami-1` sono pagine di reindirizzamento in `public/` (GitHub Pages non supporta i 301).
+- Hosting: GitHub Pages su https://s1ddharth-s1ngh.github.io/WebSiteDreifaldtTennis/ (export statico `out/`, deploy automatico a ogni push su `main` con `.github/workflows/deploy.yml`). Il sito sta sotto il percorso `/WebSiteDreifaldtTennis`: i percorsi assoluti nei contenuti passano da `components/base-path.ts`.
 
 ## Struttura di `scrape/`
 | Percorso | Contenuto |

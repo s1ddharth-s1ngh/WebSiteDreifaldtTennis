@@ -1,21 +1,21 @@
 /* Schriften wie auf der Wix-Seite (gleiche Familiennamen, damit die übernommenen Stile greifen) */
-@font-face { font-family: "wfont_f4d24a_d54bfc06b65948b89fecccc730a03ad6"; src: url("/fonts/academic-m54.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "wf_d54bfc06b65948b89fecccc73"; src: url("/fonts/academic-m54.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "noticia text"; font-weight: 400; src: url("/fonts/noticia-text-400.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "noticia text"; font-weight: 700; src: url("/fonts/noticia-text-700.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "noticia text"; font-weight: 400; font-style: italic; src: url("/fonts/noticia-text-400i.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "noticia text"; font-weight: 700; font-style: italic; src: url("/fonts/noticia-text-700i.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "open sans"; font-weight: 400; src: url("/fonts/open-sans-400.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "open sans"; font-weight: 700; src: url("/fonts/open-sans-700.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "open sans"; font-weight: 400; font-style: italic; src: url("/fonts/open-sans-400i.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "open sans"; font-weight: 700; font-style: italic; src: url("/fonts/open-sans-700i.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "poppins-extralight"; font-weight: 400; src: url("/fonts/poppins-extralight-400.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "poppins-extralight"; font-weight: 700; src: url("/fonts/poppins-extralight-700.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "poppins-extralight"; font-weight: 400; font-style: italic; src: url("/fonts/poppins-extralight-400i.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "poppins-extralight"; font-weight: 700; font-style: italic; src: url("/fonts/poppins-extralight-700i.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "raleway"; font-weight: 100 900; src: url("/fonts/raleway.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "raleway"; font-weight: 100 900; font-style: italic; src: url("/fonts/raleway-italic.woff2") format("woff2"); font-display: swap; }
-@font-face { font-family: "lobster"; src: url("/fonts/lobster-400.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "wfont_f4d24a_d54bfc06b65948b89fecccc730a03ad6"; src: url("./fonts/academic-m54.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "wf_d54bfc06b65948b89fecccc73"; src: url("./fonts/academic-m54.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "noticia text"; font-weight: 400; src: url("./fonts/noticia-text-400.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "noticia text"; font-weight: 700; src: url("./fonts/noticia-text-700.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "noticia text"; font-weight: 400; font-style: italic; src: url("./fonts/noticia-text-400i.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "noticia text"; font-weight: 700; font-style: italic; src: url("./fonts/noticia-text-700i.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "open sans"; font-weight: 400; src: url("./fonts/open-sans-400.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "open sans"; font-weight: 700; src: url("./fonts/open-sans-700.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "open sans"; font-weight: 400; font-style: italic; src: url("./fonts/open-sans-400i.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "open sans"; font-weight: 700; font-style: italic; src: url("./fonts/open-sans-700i.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "poppins-extralight"; font-weight: 400; src: url("./fonts/poppins-extralight-400.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "poppins-extralight"; font-weight: 700; src: url("./fonts/poppins-extralight-700.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "poppins-extralight"; font-weight: 400; font-style: italic; src: url("./fonts/poppins-extralight-400i.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "poppins-extralight"; font-weight: 700; font-style: italic; src: url("./fonts/poppins-extralight-700i.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "raleway"; font-weight: 100 900; src: url("./fonts/raleway.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "raleway"; font-weight: 100 900; font-style: italic; src: url("./fonts/raleway-italic.woff2") format("woff2"); font-display: swap; }
+@font-face { font-family: "lobster"; src: url("./fonts/lobster-400.woff2") format("woff2"); font-display: swap; }
 /* Lizenzierte Wix-Schriften (Monotype): lokale Systemschriften als Ersatz */
 @font-face { font-family: "avenir-lt-w01_35-light1475496"; src: local("Avenir Light"), local("Avenir-Light"), local("Avenir Next"), local("Segoe UI"); }
 @font-face { font-family: "futura-lt-w01-light"; src: local("Futura Light"), local("Futura-Light"), local("Futura"), local("Century Gothic"); }

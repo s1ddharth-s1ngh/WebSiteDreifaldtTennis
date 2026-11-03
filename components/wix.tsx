@@ -2,6 +2,7 @@
 import Image from "next/image";
 import type { CSSProperties } from "react";
 import header from "@/content/header.json";
+import { url, urls } from "./base-path";
 import { Slideshow, type Slide } from "./slideshow";
 
 type Rect = { x: number; y: number; w: number; h: number };
@@ -31,7 +32,7 @@ const pos = ({ x, y, w, h }: Rect, height = true): CSSProperties => ({
 });
 
 function Html({ html }: { html: string }) {
-  return <div className="wx-fill" dangerouslySetInnerHTML={{ __html: html }} />;
+  return <div className="wx-fill" dangerouslySetInnerHTML={{ __html: urls(html) }} />;
 }
 
 // Bilder im ersten Bildschirm sofort laden (LCP)
@@ -43,10 +44,10 @@ function Img({ it }: { it: Extract<Item, { t: "img" }> }) {
   const loading = eager(it.y);
   const ext = it.href?.startsWith("/files/") ? { target: "_blank", rel: "noopener" } : {};
   return (
-    <Tag href={it.href} {...ext} style={{ ...pos(it), overflow: "hidden", display: "block" }}>
+    <Tag href={url(it.href)} {...ext} style={{ ...pos(it), overflow: "hidden", display: "block" }}>
       {it.img ? (
         <Image
-          src={it.src}
+          src={url(it.src)}
           alt={it.alt}
           width={Math.round(it.img.w)}
           height={Math.round(it.img.h)}
@@ -54,7 +55,7 @@ function Img({ it }: { it: Extract<Item, { t: "img" }> }) {
           style={{ position: "absolute", left: it.img.l, top: it.img.t, width: it.img.w, height: it.img.h, maxWidth: "none" }}
         />
       ) : (
-        <Image src={it.src} alt={it.alt} fill sizes={`${Math.ceil(it.w)}px`} loading={loading} style={{ objectFit: "contain" }} />
+        <Image src={url(it.src)} alt={it.alt} fill sizes={`${Math.ceil(it.w)}px`} loading={loading} style={{ objectFit: "contain" }} />
       )}
     </Tag>
   );
@@ -65,15 +66,15 @@ export function Items({ items }: { items: Item[] }) {
     switch (it.t) {
       case "box":
         return it.href ? (
-          <a key={i} href={it.href} style={{ ...pos(it), ...it.s }} />
+          <a key={i} href={url(it.href)} style={{ ...pos(it), ...it.s }} />
         ) : (
           <div key={i} style={{ ...pos(it), ...it.s }} />
         );
       case "html":
         return it.hover ? (
           <div key={i} className="wx-hv" style={pos(it)}>
-            <div className="wx-n wx-fill" dangerouslySetInnerHTML={{ __html: it.html }} />
-            <div className="wx-h wx-fill" dangerouslySetInnerHTML={{ __html: it.hover }} />
+            <div className="wx-n wx-fill" dangerouslySetInnerHTML={{ __html: urls(it.html) }} />
+            <div className="wx-h wx-fill" dangerouslySetInnerHTML={{ __html: urls(it.hover) }} />
           </div>
         ) : (
           <div key={i} style={pos(it, it.k !== "text")}>
@@ -85,7 +86,7 @@ export function Items({ items }: { items: Item[] }) {
       case "slides":
         return <Slideshow key={i} style={pos(it)} images={it.images} arrow={it.arrow} eager={!!eager(it.y)} />;
       case "iframe":
-        return <iframe key={i} src={it.src} title={it.title} style={{ ...pos(it), border: 0 }} allowFullScreen loading="lazy" />;
+        return <iframe key={i} src={url(it.src)} title={it.title} style={{ ...pos(it), border: 0 }} allowFullScreen loading="lazy" />;
       case "form":
         return (
           <form key={i} action="mailto:tshd@bluewin.ch" method="post" encType="text/plain" style={pos(it)}>
@@ -114,13 +115,13 @@ function Menu({ route }: { route: string }) {
           const active = route === m.href || route === child?.href;
           return (
             <li key={m.href} style={{ width: m.w }} className={active ? "active" : undefined}>
-              <a href={m.href} aria-current={route === m.href ? "page" : undefined}>
+              <a href={url(m.href)} aria-current={route === m.href ? "page" : undefined}>
                 {m.label}
               </a>
               {child && (
                 <ul className="wx-sub">
                   <li>
-                    <a href={child.href} aria-current={route === child.href ? "page" : undefined}>
+                    <a href={url(child.href)} aria-current={route === child.href ? "page" : undefined}>
                       {child.label}
                     </a>
                   </li>
@@ -138,9 +139,9 @@ function Background({ kind }: { kind: Page["background"] }) {
   return (
     <div className="wx-bg" aria-hidden>
       {kind === "miami" ? (
-        <video src="/videos/miami-meer.mp4" poster="/images/miami-meer.jpg" autoPlay muted loop playsInline />
+        <video src={url("/videos/miami-meer.mp4")} poster={url("/images/miami-meer.jpg")} autoPlay muted loop playsInline />
       ) : (
-        <Image src="/images/hero-tennisnetz-wappen.jpg" alt="" fill priority sizes="100vw" style={{ objectFit: "cover" }} />
+        <Image src={url("/images/hero-tennisnetz-wappen.jpg")} alt="" fill priority sizes="100vw" style={{ objectFit: "cover" }} />
       )}
     </div>
   );
