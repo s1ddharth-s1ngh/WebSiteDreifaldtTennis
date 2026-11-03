@@ -135,5 +135,139 @@
     "boxSizing": "border-box"
    }
   }
- ]
+ ],
+ "mobile": {
+  "height": 1955,
+  "items": [
+   {
+    "t": "box",
+    "x": 10,
+    "y": 138,
+    "w": 300,
+    "h": 1517.6,
+    "s": {
+     "backgroundColor": "rgba(255, 255, 255, 0.6)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 20,
+    "y": 148,
+    "w": 280,
+    "h": 1442.6,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 32,
+    "y": 164,
+    "w": 260,
+    "h": 25.3,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h2 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:23px;line-height:25.3px;color:rgb(29, 67, 121)\"><span style=\"letter-spacing:4.6px\">KIDS/JUNIORS</span></h2></div>"
+   },
+   {
+    "t": "box",
+    "x": 31,
+    "y": 200.3,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px solid rgb(29, 67, 121)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 31,
+    "y": 218.3,
+    "w": 260,
+    "h": 553.7,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;line-height:24px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span style=\"font-weight:700\">KIDS - Training</span>; die Graswurzeln der Tennisschule und des Clubs</span></h5>\n\n<h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;line-height:24px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></h5>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Einen immer wichtigeren Teil jeder Tennisschule bilden die 4-7jährigen. Denn da wo sich die KIDS wohlfühlen, etwas lernen und Spass haben, da gefällt's auch deren Eltern. &nbsp;Hier geht es vor allem darum, den jüngsten Kindern die Tür zum Einstieg ins Tennisleben zu öffnen. Sie sollen dabei Spass haben an der Bewegung, an Fang- und Wurfspielen und am Spiel mit dem Schläger. Ausserdem soll der Spass an Herausforderungen und kleinen Wettspielen auf natürliche, kameradschaftliche Weise nähergebracht werden. Wir bieten dabei regelmässige Trainings in Gruppen an, samt Camps, kleinen Events und Turnierli.</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Die Kurspreise entnimmt man obigem blauen Balken unter Tennisschule/-Kurse.</span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 31,
+    "y": 782,
+    "w": 260,
+    "h": 111,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h2 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:19px;color:rgb(29, 67, 121)\"><span style=\"font-weight:700\">KIDS- Schnupperkurse während der Sommersaison 2026</span><br>\n<span style=\"font-size:15px\">Wir bieten Einstiegskurse <span style=\"font-weight:700\">TENNIS FOR KIDS</span> an. &nbsp;Infodownload dazu hier:<span style=\"font-weight:700\"> </span></span><span style=\"font-size:20px\"><span style=\"font-weight:700\">→</span></span></h2></div>"
+   },
+   {
+    "t": "box",
+    "x": 30,
+    "y": 903,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 30,
+    "y": 920,
+    "w": 260,
+    "h": 466.5,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;line-height:24px;color:rgb(99, 99, 99)\"><span style=\"font-weight:700\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Junioren - Training</span></span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">; Herzstück der Tennisschule und Zukunft des Tennis&nbsp;</span></h5>\n\n<h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;line-height:24px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></h5>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Wir versuchen unseren Junioren einen bleibenden Eindruck in die Tenniswelt zu geben und sind bestrebt, dass sie das nötige technische, taktische und spielerische Werkzeug bekommen, um diesem Sport so lange wie möglich erhalten zu bleiben. Wohin sie die Zukunft auch führen mag; Tennis knüpft Kontakte und verbindet, egal welchen Alters. Tennis wird auf der ganzen Welt gespielt und gepflegt. Und dieser Weg beginnt im dorfeigenen Tennisclub, wo sich die Kinder das Werkzeug für den weiteren Weg aneignen.</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Wir bieten hierfür Gruppenkurse, Privatlektionen und Wettkampftrainings an.&nbsp;</span></p></div>"
+   },
+   {
+    "t": "box",
+    "x": 30,
+    "y": 1406.6,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 30,
+    "y": 1421.6,
+    "w": 260,
+    "h": 66,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Alle Anmeldeformulare mit diesbezüglicher Info findest Du auch hier.</span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "button",
+    "x": 143,
+    "y": 1497.6,
+    "w": 35,
+    "h": 35,
+    "html": "<a href=\"/files/kostenuebersicht-kurse-anmeldeformulare.pdf\" target=\"_blank\" aria-label=\"Schulprogramm\" style=\"height:100%;font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;background-color:rgb(180, 239, 149);background-image:linear-gradient(rgba(180, 239, 149, 0.75) 0%, rgba(180, 239, 149, 0.75) 100%), url(&quot;/images/11062b_ab1fc28e0a59481eb72b21eb2f24a7e2_mv2.png&quot;), none;background-size:auto, 70% auto, auto;background-position:0% 0%, 49% 49%, 0% 0%;background-repeat:repeat, repeat, repeat;border-radius:50px;display:block;box-sizing:border-box;width:100%\"><span style=\"display:flex;align-items:center;justify-content:center;height:100%\"><span style=\"font-family:poppins-extralight, poppins, sans-serif;font-size:12px;font-weight:700;font-style:italic;color:rgb(69, 24, 27);text-align:center;white-space:nowrap;display:block\">Schulprogramm</span></span></a>"
+   },
+   {
+    "t": "html",
+    "k": "button",
+    "x": 133,
+    "y": 1600.6,
+    "w": 35,
+    "h": 35,
+    "html": "<a href=\"/files/kids-schnuppern.pdf\" target=\"_blank\" aria-label=\"Schnuppern\" style=\"height:100%;font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;background-color:rgb(180, 239, 149);background-image:linear-gradient(rgba(180, 239, 149, 0.75) 0%, rgba(180, 239, 149, 0.75) 100%), url(&quot;/images/11062b_ab1fc28e0a59481eb72b21eb2f24a7e2_mv2.png&quot;), none;background-size:auto, 70% auto, auto;background-position:0% 0%, 49% 49%, 0% 0%;background-repeat:repeat, repeat, repeat;border-radius:50px;display:block;box-sizing:border-box;width:100%\"><span style=\"display:flex;align-items:center;justify-content:center;height:100%\"><span style=\"font-family:poppins-extralight, poppins, sans-serif;font-size:12px;font-weight:700;font-style:italic;color:rgb(69, 24, 27);text-align:center;white-space:nowrap;display:block\">Schnuppern</span></span></a>"
+   },
+   {
+    "t": "box",
+    "x": 10,
+    "y": 1655.6,
+    "w": 300,
+    "h": 299,
+    "s": {
+     "backgroundColor": "rgba(255, 255, 255, 0.6)",
+     "boxSizing": "border-box"
+    }
+   }
+  ]
+ }
 }

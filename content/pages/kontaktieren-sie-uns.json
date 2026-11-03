@@ -124,5 +124,130 @@
     "boxSizing": "border-box"
    }
   }
- ]
+ ],
+ "mobile": {
+  "height": 1539,
+  "items": [
+   {
+    "t": "box",
+    "x": 10,
+    "y": 138,
+    "w": 300,
+    "h": 1101.9,
+    "s": {
+     "backgroundColor": "rgba(255, 255, 255, 0.6)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 20,
+    "y": 148,
+    "w": 280,
+    "h": 446.6,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 31,
+    "y": 164,
+    "w": 260,
+    "h": 50.6,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h2 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:23px;line-height:25.3px;color:rgb(29, 67, 121)\"><span style=\"letter-spacing:4.6px\">KONTAKTIEREN SIE UNS</span></h2></div>"
+   },
+   {
+    "t": "box",
+    "x": 31,
+    "y": 223.6,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px solid rgb(29, 67, 121)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 31,
+    "y": 242.6,
+    "w": 260,
+    "h": 324,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h6 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span style=\"font-weight:700\">Hansi Dreifaldt</span></span></h6>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Hüsliackerweg 10</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">CH- 4105 Biel-Benken</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Email: <span style=\"text-decoration-line:underline\"><a href=\"mailto:tshd@bluewin.ch\" style=\"\">tshd@bluewin.ch</a></span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\">&nbsp;</p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:25px;line-height:32.5px;color:rgb(99, 99, 99)\"><span style=\"color:rgb(91, 129, 25)\"><span style=\"font-family:wfont_f4d24a_d54bfc06b65948b89fecccc730a03ad6, wf_d54bfc06b65948b89fecccc73, orig_academic_m_54\">DREIFALDT TENNIS</span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span style=\"color:rgb(29, 67, 121)\">Tennisschulleiter und Trainer</span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Hansi Dreifaldt</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Tel.: <a href=\"tel:+41 79 322 2626\" style=\"\">+41 79 322 2626</a></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\">&nbsp;</p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"color:rgb(29, 67, 121)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Administration</span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Francesca Cerisola</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Tel.: <a href=\"tel:+41 79 291 9148\" style=\"\">+41 79 291 9148</a></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"text-decoration-line:underline\"><a href=\"mailto:tshd@bluewin.ch\" style=\"\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">tshd@bluewin.ch</span></a></span></p></div>"
+   },
+   {
+    "t": "box",
+    "x": 20,
+    "y": 605.6,
+    "w": 280,
+    "h": 634.3,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 33,
+    "y": 621.6,
+    "w": 260,
+    "h": 25.3,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h2 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:23px;line-height:25.3px;color:rgb(29, 67, 121)\"><span style=\"letter-spacing:4.6px\">Besucht uns</span></h2></div>"
+   },
+   {
+    "t": "box",
+    "x": 31,
+    "y": 653.9,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px solid rgb(29, 67, 121)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "iframe",
+    "x": 31,
+    "y": 667.9,
+    "w": 260,
+    "h": 240,
+    "src": "https://maps.google.com/maps?q=TC%20Leimental%2C%20Birsmattstrasse%2060%2C%204106%20Therwil&z=15&hl=de&output=embed",
+    "title": "Google Maps"
+   },
+   {
+    "t": "iframe",
+    "x": 31,
+    "y": 917.9,
+    "w": 260,
+    "h": 240,
+    "src": "https://maps.google.com/maps?q=TC%20Leimental%2C%20Birsmattstrasse%2060%2C%204106%20Therwil&z=15&hl=de&output=embed",
+    "title": "Google Maps"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 32,
+    "y": 1167.9,
+    "w": 260,
+    "h": 62,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Wie finde ich den Club?</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Klicke auf den Link, so bekommst du die Google Maps- Karte eingeblendet.</span></p></div>"
+   },
+   {
+    "t": "box",
+    "x": 10,
+    "y": 1239.9,
+    "w": 300,
+    "h": 299,
+    "s": {
+     "backgroundColor": "rgba(255, 255, 255, 0.6)",
+     "boxSizing": "border-box"
+    }
+   }
+  ]
+ }
 }

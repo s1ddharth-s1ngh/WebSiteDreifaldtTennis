@@ -72,9 +72,9 @@
    "alt": "IMG-20200823-WA0008.jpg",
    "img": {
     "l": -123.2,
-    "t": 0.0,
+    "t": 0,
     "w": 505.3,
-    "h": 379.0
+    "h": 379
    }
   },
   {
@@ -96,9 +96,9 @@
    "alt": "20210217_114914.jpeg",
    "img": {
     "l": -2.7,
-    "t": 0.0,
+    "t": 0,
     "w": 202.3,
-    "h": 76.0
+    "h": 76
    }
   },
   {
@@ -128,10 +128,10 @@
    "src": "/images/dmitriy-koch.jpg",
    "alt": "",
    "img": {
-    "l": 0.0,
-    "t": 0.0,
-    "w": 190.0,
-    "h": 190.0
+    "l": 0,
+    "t": 0,
+    "w": 190,
+    "h": 190
    }
   },
   {
@@ -191,9 +191,9 @@
    "alt": "SM_HANSI_DREIFALDT_SENIORS_2017_001%20_e",
    "img": {
     "l": -14.2,
-    "t": 0.0,
+    "t": 0,
     "w": 127.3,
-    "h": 100.0
+    "h": 100
    }
   },
   {
@@ -262,9 +262,9 @@
    "alt": "header_hansi.jpg",
    "img": {
     "l": -1.7,
-    "t": 0.0,
+    "t": 0,
     "w": 102.5,
-    "h": 100.0
+    "h": 100
    }
   },
   {
@@ -287,5 +287,293 @@
     "boxSizing": "border-box"
    }
   }
- ]
+ ],
+ "mobile": {
+  "height": 2693,
+  "items": [
+   {
+    "t": "box",
+    "x": 10,
+    "y": 138,
+    "w": 300,
+    "h": 2256.4,
+    "s": {
+     "backgroundColor": "rgba(255, 255, 255, 0.6)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 20,
+    "y": 148,
+    "w": 280,
+    "h": 1588.4,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 33,
+    "y": 164,
+    "w": 260,
+    "h": 25.3,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h2 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:23px;line-height:25.3px;color:rgb(29, 67, 121)\"><span style=\"letter-spacing:4.6px\">​ÜBER UNS​</span></h2></div>"
+   },
+   {
+    "t": "box",
+    "x": 31,
+    "y": 201.3,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px solid rgb(29, 67, 121)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 29,
+    "y": 218.3,
+    "w": 260,
+    "h": 335,
+    "s": {
+     "backgroundColor": "rgb(255, 255, 255)",
+     "borderTop": "8px solid rgb(255, 255, 255)",
+     "borderRight": "8px solid rgb(255, 255, 255)",
+     "borderBottom": "8px solid rgb(255, 255, 255)",
+     "borderLeft": "8px solid rgb(255, 255, 255)",
+     "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 3px 0px",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "img",
+    "x": 37,
+    "y": 226.3,
+    "w": 244,
+    "h": 319,
+    "src": "/images/hansi-und-francesca.jpg",
+    "alt": "IMG-20200823-WA0008.jpg",
+    "img": {
+     "l": -90.7,
+     "t": 0,
+     "w": 425.3,
+     "h": 319
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 32,
+    "y": 564.3,
+    "w": 260,
+    "h": 597.1,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h6 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Willkommen bei meiner Tennisschule</span></h6>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:17px;line-height:22.1px;color:rgb(99, 99, 99)\"><br>\n<span style=\"font-size:16px\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Seit 1986 ist die Tennisschule in Basel und Umgebung aktiv tätig. Im Leimental sind es bereits 14 Jahre. Wir haben dabei viele Tennisspielerinnen und Tennisspieler in der Region aufbauen, trainieren und kennenlernen dürfen. Es ist ein grosses Privileg über längere Zeit in einem Gebiet wirksam sein zu dürfen. Man wächst mit seinem Umfeld, formt es zum Teil auch mit, man wird älter und lernt die Nachkommen der früheren Mitglieder und Schüler kennen. Mittlerweile wohne ich mit meiner Familie in Biel-Benken im schönen Leimental. Sowohl Meine Frau Francesca (rechts im Bild), als auch unsere drei Kinder, Marina(22), Lucia(20) und Elisabeth(12) spielen im hiesigen Therwiler Club TC Leimental Tennis.</span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:17px;line-height:22.1px;color:rgb(99, 99, 99)\"><br>\n<span style=\"font-size:16px\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Das Team der Tennisschule setzt sich zusammen aus:</span></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:17px;line-height:22.1px;color:rgb(99, 99, 99)\"><span style=\"font-size:16px\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></span></p></div>"
+   },
+   {
+    "t": "img",
+    "x": 33,
+    "y": 1442.4,
+    "w": 140,
+    "h": 55,
+    "src": "/images/unterschrift-hansi.jpg",
+    "alt": "20210217_114914.jpeg",
+    "img": {
+     "l": -3.2,
+     "t": 0,
+     "w": 146.4,
+     "h": 55
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 28,
+    "y": 1201.4,
+    "w": 260,
+    "h": 321.4,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Hansi (S; CH;</span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">vollamtl. Tennislehrer), meiner Frau Francesca </span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:16px\">(Administration und Rechnungswesen), &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">und einige AssistenztrainerInnen mithelfend bei den KIDS und Junioren.</span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\">&nbsp;</p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Euer</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​​</span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Hansi Dreifaldt<br>\nLeiter der Tennisschule</span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 30,
+    "y": 1532.8,
+    "w": 260,
+    "h": 43.6,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Dmitriy Koch; vollamtl. Tennislehrer</span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">ist seit 2025 wieder dabei.</span></p></div>"
+   },
+   {
+    "t": "img",
+    "x": 95,
+    "y": 1596.4,
+    "w": 130,
+    "h": 130,
+    "src": "/images/dmitriy-koch.jpg",
+    "alt": "",
+    "img": {
+     "l": 0,
+     "t": 0,
+     "w": 130,
+     "h": 130
+    }
+   },
+   {
+    "t": "box",
+    "x": 19,
+    "y": 1761.4,
+    "w": 280,
+    "h": 277.5,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 30,
+    "y": 1772.4,
+    "w": 80,
+    "h": 85,
+    "s": {
+     "backgroundColor": "rgb(255, 255, 255)",
+     "borderTop": "8px solid rgb(255, 255, 255)",
+     "borderRight": "8px solid rgb(255, 255, 255)",
+     "borderBottom": "8px solid rgb(255, 255, 255)",
+     "borderLeft": "8px solid rgb(255, 255, 255)",
+     "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 3px 0px",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "img",
+    "x": 38,
+    "y": 1780.4,
+    "w": 64,
+    "h": 69,
+    "src": "/images/philosophie.jpg",
+    "alt": "SM_HANSI_DREIFALDT_SENIORS_2017_001%20_e",
+    "img": {
+     "l": -11.9,
+     "t": 0,
+     "w": 87.8,
+     "h": 69
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 124,
+    "y": 1806.4,
+    "w": 260,
+    "h": 24,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h6 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Unsere Philosophie</span></h6></div>"
+   },
+   {
+    "t": "box",
+    "x": 31,
+    "y": 1872.4,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 31,
+    "y": 1886.4,
+    "w": 260,
+    "h": 143.5,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Wir sind eine Tennisschule die sich dem Breitensport verschrieben hat. Wir lehren und leben diesen wunderbaren Sport. Tennis ist technisch sehr anspruchsvoll, aber jeder kann mit seinen Möglichkeiten Tennis lernen und lange viel Spass damit haben. Wichtig ist nur, dass man's tut.</span></p></div>"
+   },
+   {
+    "t": "box",
+    "x": 19,
+    "y": 2051.9,
+    "w": 280,
+    "h": 322.5,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 31,
+    "y": 2062.9,
+    "w": 80,
+    "h": 85,
+    "s": {
+     "backgroundColor": "rgb(255, 255, 255)",
+     "borderTop": "8px solid rgb(255, 255, 255)",
+     "borderRight": "8px solid rgb(255, 255, 255)",
+     "borderBottom": "8px solid rgb(255, 255, 255)",
+     "borderLeft": "8px solid rgb(255, 255, 255)",
+     "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 3px 0px",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "img",
+    "x": 39,
+    "y": 2070.9,
+    "w": 64,
+    "h": 69,
+    "src": "/images/wappen.jpg",
+    "alt": "header_hansi.jpg",
+    "img": {
+     "l": -3.3,
+     "t": 0,
+     "w": 70.7,
+     "h": 69
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 124,
+    "y": 2097.9,
+    "w": 155,
+    "h": 24,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h6 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Unsere Geschichte</span></h6></div>"
+   },
+   {
+    "t": "box",
+    "x": 30,
+    "y": 2160.9,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 31,
+    "y": 2172.9,
+    "w": 260,
+    "h": 184.5,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Seit über 14 Jahren ist die Tennisschule in Therwil beim TC Leimental ansässig. Sie hat dabei wesentlich dazu beigetragen die Tennisszene in dieser Region zu prägen. Seit 2021 finden sogar einige Wintertrainings für Kinder in der therwiler 99er-Sporthalle statt und ab Sept. '22 auch das Wintertraining auf den Allwetterplätzen des TCL.</span></p></div>"
+   },
+   {
+    "t": "box",
+    "x": 10,
+    "y": 2394.4,
+    "w": 300,
+    "h": 299,
+    "s": {
+     "backgroundColor": "rgba(255, 255, 255, 0.6)",
+     "boxSizing": "border-box"
+    }
+   }
+  ]
+ }
 }

@@ -14,7 +14,7 @@ const eslintConfig = defineConfig([
     "next-env.d.ts",
     // Scraping (Node/CommonJS, nur lokal)
     "scrape/**",
-    "scripts/scrape-wix.cjs",
+    "scripts/scrape-wix*.cjs",
   ]),
 ]);
 

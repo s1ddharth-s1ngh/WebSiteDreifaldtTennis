@@ -9,12 +9,14 @@ Portare il sito https://www.dreifaldt-tennis.com (oggi su Wix) in un progetto Ne
 ## Come è fatta la copia
 - Ogni pagina è un file `content/pages/<slug>.json`: elenco di blocchi con posizione assoluta su una tela di 980 px (come Wix desktop). Tipi: `box` (sfondi, linee, bordi), `html` (testi e pulsanti con stili inline misurati dal sito live; `hover` = stato al passaggio del mouse), `img` (con ritaglio calcolato), `slides` (galleria), `iframe`, `form`.
 - `content/header.json`: header comune (logo e voci di menu). Il menu con i sottomenu (Tennisclubs, Kontaktieren Sie uns) è in `components/wix.tsx`.
+- Layout smartphone: come Wix, ogni pagina ha anche `mobile` (tela di 320 px, stessi tipi di blocco) e `header.json` ha `mobile`. Menu hamburger e pulsanti rapidi (telefono, e-mail, chat WhatsApp) sono in `components/mobile.tsx`. La scelta avviene come su Wix in base allo user agent (script in `app/layout.tsx`): smartphone → 320 px, tablet e desktop → 980 px rimpiccioliti alla larghezza dello schermo.
 - Rendering: `components/wix.tsx`, route unica `app/[[...slug]]/page.tsx`.
 - Font: in `app/fonts` con gli stessi nomi di famiglia usati da Wix. Avenir, Futura e Helvetica sono font Monotype con licenza Wix: sostituiti da font di sistema.
-- Differenze note: la mappa Google è un embed standard (non il widget Wix); la chat Wix è sostituita da un pulsante identico che apre WhatsApp; il form invia via `mailto:`; su smartphone si vede la versione desktop rimpicciolita (Wix ha un layout mobile separato, non ancora copiato).
+- Differenze note: la mappa Google è un embed standard (non il widget Wix); la chat Wix è sostituita da un pulsante identico che apre WhatsApp; il form invia via `mailto:`; nel layout smartphone il pulsante rapido Facebook di Wix (senza link) è omesso e Telefono/E-Mail hanno i dati veri (su Wix sono vuoti); il font del menu mobile (DIN Next, Monotype) è sostituito da un font di sistema.
 
 ## Stato attuale
 - Lo scraping è completo ed è in `scrape/` (circa 40 MB, **non versionato**).
+- Il layout smartphone si rigenera con `node scripts/scrape-wix-mobile.cjs` (richiede `scrape/` e playwright come sopra): sovrascrive `mobile` in `content/pages/*.json` e `content/header.json`.
 - Lo script è `scripts/scrape-wix.cjs`. Si rilancia con `npm i -D playwright`, poi `node scripts/scrape-wix.cjs scrape`. Su Windows senza Chromium installato aggiungere `PW_CHANNEL=msedge`. Impiega circa 30 secondi.
 - Hosting: GitHub Pages su https://s1ddharth-s1ngh.github.io/WebSiteDreifaldtTennis/ (export statico `out/`, deploy automatico a ogni push su `main` con `.github/workflows/deploy.yml`). Il sito sta sotto il percorso `/WebSiteDreifaldtTennis`: i percorsi assoluti nei contenuti passano da `components/base-path.ts`.
 

@@ -1,9 +1,10 @@
-// Renders pages as positioned blocks on a 980px canvas, exactly like the original Wix desktop layout.
+// Renders pages as positioned blocks on a 980px canvas (Wix desktop) and a 320px canvas (Wix smartphone).
 import Image from "next/image";
 import type { CSSProperties } from "react";
 import header from "@/content/header.json";
 import { url, urls } from "./base-path";
 import { Slideshow, type Slide } from "./slideshow";
+import { MobileMenu, QuickActions } from "./mobile";
 
 type Rect = { x: number; y: number; w: number; h: number };
 type Crop = { l: number; t: number; w: number; h: number };
@@ -21,6 +22,8 @@ export type Page = {
   height: number;
   background: "tennis" | "miami";
   items: Item[];
+  // Smartphone-Layout (Wix zeigt es auf Handys, Tablets bekommen das Desktop-Layout)
+  mobile: { height: number; items: Item[] };
 };
 
 const pos = ({ x, y, w, h }: Rect, height = true): CSSProperties => ({
@@ -161,16 +164,24 @@ function ChatButton() {
   );
 }
 
+const mobileMenu = (header.menu as MenuEntry[]).map(({ label, href }) => ({ label, href, sub: sub[href] }));
+
 export function WixPage({ page }: { page: Page }) {
   return (
     <>
       <Background kind={page.background} />
-      <div className="wx-page" style={{ height: page.height }}>
+      <div className="wx-page wx-d" style={{ height: page.height }}>
         <Items items={header.items as Item[]} />
         <Menu route={page.route} />
         <Items items={page.items} />
       </div>
+      <div className="wx-page wx-m" style={{ height: page.mobile.height }}>
+        <Items items={header.mobile as Item[]} />
+        <MobileMenu route={page.route} entries={mobileMenu} />
+        <Items items={page.mobile.items} />
+      </div>
       <ChatButton />
+      <QuickActions />
     </>
   );
 }

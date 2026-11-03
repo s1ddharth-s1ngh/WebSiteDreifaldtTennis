@@ -42,9 +42,9 @@
    "href": "/",
    "img": {
     "l": -2.7,
-    "t": -0.0,
+    "t": 0,
     "w": 101.4,
-    "h": 99.0
+    "h": 99
    }
   },
   {
@@ -105,6 +105,64 @@
    "href": "/ueber-uns",
    "x": 859,
    "w": 101
+  }
+ ],
+ "mobile": [
+  {
+   "t": "box",
+   "x": 11,
+   "y": 6,
+   "w": 300,
+   "h": 87,
+   "s": {
+    "backgroundColor": "rgba(248, 248, 248, 0.7)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "box",
+   "x": 22,
+   "y": 7,
+   "w": 280,
+   "h": 74,
+   "s": {
+    "backgroundColor": "rgb(255, 255, 255)",
+    "boxSizing": "border-box"
+   }
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 42,
+   "y": 39,
+   "w": 86,
+   "h": 12,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h1 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:9px;color:rgb(29, 67, 121);text-align:right\"><span style=\"color:rgb(91, 129, 25)\"><span style=\"font-family:wfont_f4d24a_d54bfc06b65948b89fecccc730a03ad6, wf_d54bfc06b65948b89fecccc73, orig_academic_m_54\"><span style=\"font-size:10px\"><span style=\"letter-spacing:3px\">DREIFALDT</span></span><span style=\"letter-spacing:2.7px\">&nbsp;</span></span></span></h1></div>"
+  },
+  {
+   "t": "html",
+   "k": "text",
+   "x": 197,
+   "y": 39,
+   "w": 64,
+   "h": 12,
+   "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h1 style=\"font-family:&quot;times new roman&quot;, times, serif;color:rgb(29, 67, 121)\"><span style=\"color:rgb(91, 129, 25)\"><span style=\"font-family:wfont_f4d24a_d54bfc06b65948b89fecccc730a03ad6, wf_d54bfc06b65948b89fecccc73, orig_academic_m_54\"><span style=\"letter-spacing:3px\">&nbsp;TENNIS</span></span></span></h1></div>"
+  },
+  {
+   "t": "img",
+   "x": 126,
+   "y": 6,
+   "w": 71,
+   "h": 72,
+   "src": "/images/wappen.jpg",
+   "alt": "header_hansi.jpg",
+   "img": {
+    "l": -1.4,
+    "t": 0,
+    "w": 73.8,
+    "h": 72
+   },
+   "href": "/"
   }
  ]
 }

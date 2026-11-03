@@ -71,9 +71,9 @@
    "src": "/images/seniors-banner.jpg",
    "alt": "Hansi_back3.jpg",
    "img": {
-    "l": 0.0,
+    "l": 0,
     "t": -659.3,
-    "w": 879.0,
+    "w": 879,
     "h": 1562.7
    }
   },
@@ -430,9 +430,9 @@
    "src": "/images/pernfors-helsinki-2016.jpg",
    "alt": "2016-06-28 13.04.29.jpg",
    "img": {
-    "l": 0.0,
+    "l": 0,
     "t": -95.4,
-    "w": 219.0,
+    "w": 219,
     "h": 389.3
    }
   },
@@ -499,10 +499,10 @@
    "src": "/images/on-tour-tennisball.jpg",
    "alt": "ball_081-1280x640.jpg",
    "img": {
-    "l": -11.0,
-    "t": 0.0,
-    "w": 102.0,
-    "h": 51.0
+    "l": -11,
+    "t": 0,
+    "w": 102,
+    "h": 51
    }
   },
   {
@@ -559,9 +559,9 @@
    "src": "/images/tipp-ecke.jpg",
    "alt": "stanlinas-wawrinka-backhand-1-e141691202",
    "img": {
-    "l": 0.0,
-    "t": -53.0,
-    "w": 215.0,
+    "l": 0,
+    "t": -53,
+    "w": 215,
     "h": 290.1
    }
   },
@@ -604,5 +604,588 @@
     "boxSizing": "border-box"
    }
   }
- ]
+ ],
+ "mobile": {
+  "height": 4248,
+  "items": [
+   {
+    "t": "box",
+    "x": 10,
+    "y": 138,
+    "w": 300,
+    "h": 3810.5,
+    "s": {
+     "backgroundColor": "rgba(255, 255, 255, 0.6)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 20,
+    "y": 150,
+    "w": 280,
+    "h": 1491.1,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 31,
+    "y": 165,
+    "w": 260,
+    "h": 25.3,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h2 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:23px;line-height:25.3px;color:rgb(29, 67, 121)\"><span style=\"letter-spacing:4.6px\">SENIORS</span></h2></div>"
+   },
+   {
+    "t": "box",
+    "x": 31,
+    "y": 201.3,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px solid rgb(29, 67, 121)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 31,
+    "y": 217.3,
+    "w": 260,
+    "h": 135,
+    "s": {
+     "backgroundColor": "rgb(255, 255, 255)",
+     "borderTop": "8px solid rgb(255, 255, 255)",
+     "borderRight": "8px solid rgb(255, 255, 255)",
+     "borderBottom": "8px solid rgb(255, 255, 255)",
+     "borderLeft": "8px solid rgb(255, 255, 255)",
+     "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 3px 0px",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "img",
+    "x": 39,
+    "y": 225.3,
+    "w": 244,
+    "h": 119,
+    "src": "/images/seniors-banner.jpg",
+    "alt": "Hansi_back3.jpg",
+    "img": {
+     "l": 0,
+     "t": -157.4,
+     "w": 244,
+     "h": 433.8
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 35,
+    "y": 370.3,
+    "w": 255,
+    "h": 516,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;color:rgb(99, 99, 99)\"><span style=\"font-weight:700\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Willkommen auf unserer Seniors- Seite</span></span></h5>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Hier wollen wir News, Nachrichten und Besonderheiten zu den untenstehenden Themen vermitteln. Das Ziel ist es familiär zu bleiben und den Link zu regionalen und allenfalls nationalen Senioren zu knüpfen, ihre </span><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Aktivitäten zu beobachten und vielleicht selbst in der einen oder anderen Sparte ein bisschen \"gluschtig\" zu werden.&nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">In den letzten Jahren lief ja bekanntlich nicht viel hinsichtlich Geselligkeit oder Turnierwesen. Desto mehr hoffen wir darauf, dass es in diesem Jahr wieder losgehen kann.&nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Ergänzend füge ich deshalb dieser Seite ein paar \"Olds\" und Aktivitäten von mir aus den letzten 5 Jahren hinzu. Am Ende dieser Seite findet Ihr dann noch einen \"Tipp des Monats\".</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Viel Spass beim Lesen</span></p></div>"
+   },
+   {
+    "t": "box",
+    "x": 31,
+    "y": 927.3,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 36,
+    "y": 943.3,
+    "w": 135,
+    "h": 38.4,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:19.2px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Wettkampf:</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:19.2px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Lokal-, National</span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 36,
+    "y": 982.7,
+    "w": 191,
+    "h": 38.4,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:19.2px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Wettkampf International ITF, samt Besonderes</span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 36,
+    "y": 1023.1,
+    "w": 135,
+    "h": 96,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:19.2px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Aktivitäten, Plauschturniere, und Events in und um den TCL und Region Leimental</span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "button",
+    "x": 31,
+    "y": 1134.1,
+    "w": 260,
+    "h": 50,
+    "html": "<a href=\"/files/senioren-turnierkalender.pdf\" target=\"_blank\" aria-label=\"Senioren Turnierkalender\" style=\"height:100%;font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;background-color:rgb(10, 190, 255);background-image:url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAANcCAYAAACe7cU9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYxIDY0LjE0MDk0OSwgMjAxMC8xMi8wNy0xMDo1NzowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo0RjgyM0FDRjc4NTVFMTExQURCRUEwRDE2OEU2QjI4MyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo5NDBENTY2NDVFMjgxMUUxOEYyN0RERTkzNTlCQjM3MCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo5NDBENTY2MzVFMjgxMUUxOEYyN0RERTkzNTlCQjM3MCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1LjEgV2luZG93cyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjU4ODIzQUNGNzg1NUUxMTFBREJFQTBEMTY4RTZCMjgzIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjRGODIzQUNGNzg1NUUxMTFBREJFQTBEMTY4RTZCMjgzIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+sD/S8AAAAG1JREFUeNrsz7EOgCAMBNCr/v/op6rRCDV1KMFUYHM5hpfLtR2Aqi4TADF2ZzU25zBO4zLSIM9ydspt7ietb1PdlYS6GwWOBgnNjhBCCCGEEEII+Z2vJ8GyBOk1lWCv3Y2C/iD64GTMngp6CzAA8Uw7zZmpz8kAAAAASUVORK5CYII=&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Senioren Turnierkalender</span></a>"
+   },
+   {
+    "t": "box",
+    "x": 32,
+    "y": 1199.1,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 36,
+    "y": 1221.1,
+    "w": 215,
+    "h": 41.8,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h1 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:19px;line-height:20.9px;color:rgb(29, 67, 121)\"><span style=\"color:rgb(7, 126, 170)\">Meldet euch an (Vorschläge)</span></h1></div>"
+   },
+   {
+    "t": "box",
+    "x": 32,
+    "y": 1283.9,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 30,
+    "y": 1298.9,
+    "w": 260,
+    "h": 19,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:15px;line-height:18px;color:rgb(29, 67, 121)\"><span style=\"color:rgb(99, 99, 99)\"><span style=\"font-size:19px\"><span style=\"font-weight:700\">19. April&nbsp;</span></span></span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 30,
+    "y": 1327.9,
+    "w": 260,
+    "h": 19.2,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:16px;line-height:19.2px;color:rgb(29, 67, 121)\"><span style=\"color:rgb(50, 50, 50)\">TC Leimental Eröffnungsturnier</span></p></div>"
+   },
+   {
+    "t": "box",
+    "x": 30,
+    "y": 1367.1,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 36,
+    "y": 1396.1,
+    "w": 78,
+    "h": 48,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;line-height:24px;color:rgb(99, 99, 99)\"><span style=\"font-weight:700\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Mai 2026</span></span></h5></div>"
+   },
+   {
+    "t": "box",
+    "x": 114,
+    "y": 1382.1,
+    "w": 6,
+    "h": 46,
+    "s": {
+     "borderLeft": "1px dotted rgb(173, 233, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 135,
+    "y": 1387.1,
+    "w": 135,
+    "h": 43.6,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Interclub aller Kategorien</span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 36,
+    "y": 1491.7,
+    "w": 78,
+    "h": 24,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;line-height:24px;color:rgb(99, 99, 99)\"><span style=\"font-weight:700\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">ab 12.06.</span></span></h5></div>"
+   },
+   {
+    "t": "box",
+    "x": 114,
+    "y": 1469.7,
+    "w": 6,
+    "h": 67,
+    "s": {
+     "borderLeft": "1px dotted rgb(173, 233, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 135,
+    "y": 1470.7,
+    "w": 151,
+    "h": 43.6,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Basler Meisterschaften 2026</span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 30,
+    "y": 1548.7,
+    "w": 260,
+    "h": 19,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:15px;line-height:18px;color:rgb(29, 67, 121)\"><span style=\"color:rgb(99, 99, 99)\"><span style=\"font-size:19px\"><span style=\"font-weight:700\">16. Aug.</span></span></span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 30,
+    "y": 1577.7,
+    "w": 260,
+    "h": 38.4,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:16px;line-height:19.2px;color:rgb(29, 67, 121)\"><span style=\"color:rgb(50, 50, 50)\">Beginn Club- Meisterschaften</span></p>\n\n<p style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:16px;line-height:19.2px;color:rgb(29, 67, 121)\"><span style=\"color:rgb(50, 50, 50)\">TC Leimental</span></p></div>"
+   },
+   {
+    "t": "box",
+    "x": 31,
+    "y": 1626.1,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 158,
+    "y": 148,
+    "w": 6,
+    "h": 75,
+    "s": {
+     "borderLeft": "1px dotted rgb(173, 233, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 20,
+    "y": 1645.1,
+    "w": 280,
+    "h": 522.8,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 31,
+    "y": 1670.1,
+    "w": 260,
+    "h": 24.4,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h6 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(99, 99, 99);text-align:center\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Von der Seniorentour 2019</span></h6></div>"
+   },
+   {
+    "t": "box",
+    "x": 31,
+    "y": 1783.5,
+    "w": 10,
+    "h": 20,
+    "s": {
+     "borderTop": "10px solid rgba(7, 126, 170, 0)",
+     "borderBottom": "10px solid rgba(0, 0, 0, 0)",
+     "borderLeft": "10px solid rgba(0, 0, 0, 0)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 301,
+    "y": 1783.5,
+    "w": 10,
+    "h": 20,
+    "s": {
+     "borderTop": "10px solid rgb(128, 160, 206)",
+     "borderRight": "10px solid rgba(0, 0, 0, 0)",
+     "borderBottom": "10px solid rgba(0, 0, 0, 0)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 31,
+    "y": 1707.5,
+    "w": 280,
+    "h": 76,
+    "s": {
+     "backgroundColor": "rgb(29, 67, 121)",
+     "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 4px 0px",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 70,
+    "y": 1717.5,
+    "w": 211,
+    "h": 39,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h4 style=\"font-family:lobster, cursive;font-size:30px;line-height:39px;color:rgb(255, 255, 255);text-align:center\">On Tour</h4></div>"
+   },
+   {
+    "t": "img",
+    "x": 43,
+    "y": 1722.5,
+    "w": 80,
+    "h": 51,
+    "src": "/images/on-tour-tennisball.jpg",
+    "alt": "ball_081-1280x640.jpg",
+    "img": {
+     "l": -11,
+     "t": 0,
+     "w": 102,
+     "h": 51
+    }
+   },
+   {
+    "t": "iframe",
+    "x": 31,
+    "y": 1796.5,
+    "w": 260,
+    "h": 267,
+    "src": "https://www.youtube-nocookie.com/embed/R57MExgLIBg",
+    "title": "External YouTube"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 31,
+    "y": 2081.5,
+    "w": 260,
+    "h": 65.4,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99);text-align:center\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Übertragung vom <a href=\"tel:31.07. 2019\" style=\"\">31.07. 2019</a></span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99);text-align:center\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">ITF Scandinavian&nbsp;Championships&nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99);text-align:center\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Seniors 55+ in Hanko, Finland</span></p></div>"
+   },
+   {
+    "t": "box",
+    "x": 21,
+    "y": 2175.9,
+    "w": 280,
+    "h": 539,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 31,
+    "y": 2185.9,
+    "w": 260,
+    "h": 200,
+    "s": {
+     "backgroundColor": "rgb(255, 255, 255)",
+     "borderTop": "8px solid rgb(255, 255, 255)",
+     "borderRight": "8px solid rgb(255, 255, 255)",
+     "borderBottom": "8px solid rgb(255, 255, 255)",
+     "borderLeft": "8px solid rgb(255, 255, 255)",
+     "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 3px 0px",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "img",
+    "x": 39,
+    "y": 2193.9,
+    "w": 244,
+    "h": 184,
+    "src": "/images/bol-2022-pokal.jpg",
+    "alt": "Screenshot_20221030-171508_Gallery.jpg",
+    "img": {
+     "l": 0,
+     "t": -50.5,
+     "w": 244,
+     "h": 305.5
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 32,
+    "y": 2395.9,
+    "w": 260,
+    "h": 48,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h1 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:14px;color:rgb(29, 67, 121)\"><span style=\"color:rgb(99, 99, 99)\"><span style=\"font-weight:700\">13TH INTERNATIONAL BLUESUN OPEN OF CROATIA IN BOL (02. - 07. Oktober 2022)</span></span></h1></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 37,
+    "y": 2453.9,
+    "w": 255,
+    "h": 246,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;line-height:12px;color:rgb(99, 99, 99)\"><span style=\"font-weight:700\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></span></h5>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-size:16px\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Anfang Oktober fanden in Bol (Kroatien)&nbsp;</span></span><span style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:16px\">die 13. internationalen Bluesun Open statt. Hansi Dreifaldt kam als durch längere Verletzungspause bedingt ungesetzter Spieler ans 60+-Turnier und schlug auf seinem Weg ins Finale einen Belgier, einen&nbsp;</span><span style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:16px\">Österreicher und einen Deutschen und kam dann im Finale auf den mehrfachen Vorjahressieger aus der Slowakei. Hansi gewann das Finale mit 3:6 - 6:4 - 6:1 und damit den Pokal.</span></p></div>"
+   },
+   {
+    "t": "box",
+    "x": 21,
+    "y": 2721.9,
+    "w": 280,
+    "h": 546.6,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 32,
+    "y": 2736.9,
+    "w": 260,
+    "h": 200,
+    "s": {
+     "backgroundColor": "rgb(255, 255, 255)",
+     "borderTop": "8px solid rgb(255, 255, 255)",
+     "borderRight": "8px solid rgb(255, 255, 255)",
+     "borderBottom": "8px solid rgb(255, 255, 255)",
+     "borderLeft": "8px solid rgb(255, 255, 255)",
+     "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 3px 0px",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "img",
+    "x": 40,
+    "y": 2744.9,
+    "w": 244,
+    "h": 184,
+    "src": "/images/pernfors-helsinki-2016.jpg",
+    "alt": "2016-06-28 13.04.29.jpg",
+    "img": {
+     "l": -8.5,
+     "t": -110.4,
+     "w": 260.9,
+     "h": 463.9
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 39,
+    "y": 2957.9,
+    "w": 251,
+    "h": 293.6,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;line-height:12px;color:rgb(99, 99, 99)\"><span style=\"font-weight:700\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Ein besonderer Moment</span></span></h5>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;color:rgb(99, 99, 99)\">&nbsp;</p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Es ist schon etwas Besonderes, wenn man mal gegen eine Koryphäe antreten darf. Dieses Bild wurde aufgenommen vor dem Match von Hansi Dreifaldt gegen Mikael Pernfors (links im Bild) an den 50+ Weltmeisterschaften im Herren Einzel 2016 in Helsinki. Pernfors gewann das Match mit 6-2 , 7-5 und wurde danach Weltmeister 50+.</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">(Auf meinem linken Arm Elisabeth, damals 2 jährig)</span></p></div>"
+   },
+   {
+    "t": "box",
+    "x": 21,
+    "y": 3294.5,
+    "w": 280,
+    "h": 634,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 32,
+    "y": 3309.5,
+    "w": 260,
+    "h": 200,
+    "s": {
+     "backgroundColor": "rgb(255, 255, 255)",
+     "borderTop": "8px solid rgb(255, 255, 255)",
+     "borderRight": "8px solid rgb(255, 255, 255)",
+     "borderBottom": "8px solid rgb(255, 255, 255)",
+     "borderLeft": "8px solid rgb(255, 255, 255)",
+     "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 3px 0px",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "img",
+    "x": 40,
+    "y": 3317.5,
+    "w": 244,
+    "h": 184,
+    "src": "/images/tipp-ecke.jpg",
+    "alt": "stanlinas-wawrinka-backhand-1-e141691202",
+    "img": {
+     "l": 0,
+     "t": -72.6,
+     "w": 244,
+     "h": 329.2
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 32,
+    "y": 3519.5,
+    "w": 260,
+    "h": 40,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h1 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:16px;color:rgb(29, 67, 121)\"><span style=\"color:rgb(99, 99, 99)\"><span style=\"font-size:17px\"><span style=\"font-weight:700\">Tipp-Ecke </span></span></span><span style=\"color:rgb(99, 99, 99)\"><span style=\"font-size:17px\">(hier poste ich euch jeweils einen \"Tipp des Monats\")</span></span></h1></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 33,
+    "y": 3569.5,
+    "w": 255,
+    "h": 297,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;line-height:10px;color:rgb(99, 99, 99)\">​</h5>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Wie schwierig es mit zunehmendem Alter wird etwas technisch zu ändern wissen wir alle. Hier möchte ich all jenen die Interesse daran haben, einen kleinen Tipp geben, wie wir ein technisches oder taktisches Detail zu unserem Nutzen und Vorteil physisch und mental verarbeiten können. Alles was es dazu braucht ist eine gewisse Offenheit und Experimentierfreude. Damit wird es bereits schon interessant, und somit wäre die Tipp-Ecke eröffnet.</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span style=\"font-weight:700\">TIPP DES MONATS: </span>(Diesmal ein k</span><span style=\"font-size:13px\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">leiner </span></span><span style=\"font-size:13px\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Mentalratgeber)</span></span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "button",
+    "x": 101,
+    "y": 3876.5,
+    "w": 120,
+    "h": 42,
+    "html": "<a href=\"/files/tipp-des-monats-mentalratgeber.pdf\" target=\"_blank\" aria-label=\"Ansehen\" style=\"height:100%;font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;background-color:rgb(87, 29, 127);background-image:linear-gradient(rgb(36, 51, 145) 0%, rgba(87, 29, 127, 0) 100%), none;background-size:auto, auto;background-position:0% 0%, 0% 0%;background-repeat:repeat, repeat;border-radius:50px;display:block;box-sizing:border-box;width:100%\"><span style=\"display:flex;align-items:center;justify-content:center;height:100%\"><span style=\"font-family:futura-lt-w01-light, sans-serif;font-size:14px;letter-spacing:0.7px;color:rgb(255, 255, 255);text-align:center;white-space:nowrap;display:block\">Ansehen</span></span></a>"
+   },
+   {
+    "t": "box",
+    "x": 10,
+    "y": 3948.5,
+    "w": 300,
+    "h": 299,
+    "s": {
+     "backgroundColor": "rgba(255, 255, 255, 0.6)",
+     "boxSizing": "border-box"
+    }
+   }
+  ]
+ }
 }

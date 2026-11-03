@@ -20,9 +20,16 @@
 @font-face { font-family: "avenir-lt-w01_35-light1475496"; src: local("Avenir Light"), local("Avenir-Light"), local("Avenir Next"), local("Segoe UI"); }
 @font-face { font-family: "futura-lt-w01-light"; src: local("Futura Light"), local("Futura-Light"), local("Futura"), local("Century Gothic"); }
 @font-face { font-family: "helvetica-w01-bold"; src: local("Helvetica Bold"), local("Helvetica-Bold"), local("Arial Bold"), local("Arial-BoldMT"); }
+@font-face { font-family: "din-next-w01-light"; src: local("DIN Next LT Pro Light"), local("DINNextLTPro-Light"), local("Bahnschrift Light"), local("Bahnschrift"); }
 
 html, body { margin: 0; }
 body { min-width: 980px; background: #fff; overflow-x: auto; }
+
+/* Desktop (980px) oder Smartphone (320px, html.m): siehe app/layout.tsx */
+.wx-m, .wx-qa { display: none; }
+html.m body { min-width: 320px; }
+html.m .wx-d, html.m .wx-chat { display: none; }
+html.m .wx-m, html.m .wx-qa { display: block; }
 
 /* Hintergrund (fixiert, wie bei Wix) */
 .wx-bg { position: fixed; inset: 0; z-index: -1; }
@@ -53,6 +60,37 @@ body { min-width: 980px; background: #fff; overflow-x: auto; }
 .wx-menu li:hover > .wx-sub { display: block; }
 .wx-menu .wx-sub a { line-height: 26px; padding: 0 6px; background: rgb(43, 101, 181); }
 .wx-menu .wx-sub a:hover, .wx-menu .wx-sub a[aria-current] { color: rgb(172, 196, 230); }
+
+/* Smartphone-Leinwand */
+.wx-page.wx-m { width: 320px; overflow-x: clip; } /* wie Wix: Überstand rechts abschneiden */
+
+/* Smartphone-Menü (Wix "Tiny Menu") */
+.wx-tm > button { position: absolute; left: 11px; top: 98px; width: 300px; height: 40px; z-index: 1006; display: flex; align-items: center; justify-content: center; background: rgb(61, 155, 232); }
+.wx-tm.open > button { background: none; }
+.wx-tm > button svg { width: 20px; height: 17px; overflow: visible; fill: none; stroke: rgb(248, 248, 248); stroke-width: 2; }
+.wx-tm-overlay { position: fixed; inset: 0; z-index: 1005; overflow-y: auto; background: rgb(61, 155, 232); }
+.wx-tm-overlay[hidden] { display: none; }
+.wx-tm ul { padding: 80px 0 20px; font: 18px/25.2px "din-next-w01-light", sans-serif; letter-spacing: 2px; color: #000; }
+.wx-tm li { display: flex; flex-direction: column; align-items: center; padding: 0 20px 1px; }
+.wx-tm a { display: block; padding: 10px 20px; white-space: nowrap; }
+.wx-tm a[aria-current] { color: rgb(14, 34, 60); }
+.wx-tm-row { display: flex; align-items: center; max-width: 100%; padding: 0 22px; }
+.wx-tm-row button { width: 36px; flex: none; text-align: left; font: inherit; color: inherit; }
+.wx-tm-row a { padding-left: 0; }
+.wx-tm-sub { font-size: 16.2px; }
+
+/* Smartphone-Schnellaktionen unten rechts (wie Wix; Chat öffnet WhatsApp) */
+.wx-qa { position: fixed; right: 16px; bottom: 16px; z-index: 1000; }
+.wx-qa-backdrop { position: fixed; inset: 0; z-index: -1; background: rgba(255, 255, 255, .9); }
+.wx-qa ul { position: absolute; bottom: 66px; left: 3px; display: flex; flex-direction: column; gap: 14px; list-style: none; margin: 0; padding: 0; }
+.wx-qa ul a { position: relative; display: block; width: 44px; height: 44px; border-radius: 50%; box-shadow: rgba(0, 0, 0, .3) 0 2px 8px 0; }
+.wx-qa ul svg { position: absolute; left: 8px; top: 13.5px; width: 28px; height: 17px; fill: #fff; }
+.wx-qa > button { display: flex; align-items: center; justify-content: center; gap: 3px; width: 50px; height: 50px; padding: 0; border: 0; border-radius: 50%; background: rgb(0, 138, 252); box-shadow: rgba(0, 0, 0, .3) 0 2px 8px 0; cursor: pointer; }
+.wx-qa > button i { width: 6px; height: 6px; border-radius: 50%; background: #fff; }
+.wx-qa.open > button { gap: 0; }
+.wx-qa.open > button i { position: absolute; width: 17px; height: 3px; border-radius: 0; transform: rotate(45deg); }
+.wx-qa.open > button i:nth-child(2) { display: none; }
+.wx-qa.open > button i:nth-child(3) { transform: rotate(-45deg); }
 
 /* Chat-Button unten rechts (öffnet WhatsApp) */
 .wx-chat {

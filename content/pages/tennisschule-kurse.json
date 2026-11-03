@@ -51,16 +51,16 @@
    "x": 13,
    "y": 413.3,
    "w": 439,
-   "h": 365.0,
+   "h": 365,
    "images": [
     {
      "src": "/images/tennisschule-hansi-vorhand.jpg",
      "alt": "SM_HANSI_DREIFALDT_SENIORS_2017_001 .JPG",
      "img": {
       "l": -30.8,
-      "t": -0.0,
+      "t": 0,
       "w": 548.5,
-      "h": 365.0
+      "h": 365
      },
      "w": 487,
      "h": 365
@@ -69,9 +69,9 @@
      "src": "/images/tennisschule-hansi-halle.jpg",
      "alt": "",
      "img": {
-      "l": 0.0,
+      "l": 0,
       "t": -115.4,
-      "w": 487.0,
+      "w": 487,
       "h": 595.8
      },
      "w": 487,
@@ -81,10 +81,10 @@
      "src": "/images/kids-baelle.jpg",
      "alt": "",
      "img": {
-      "l": 0.0,
-      "t": -61.0,
-      "w": 487.0,
-      "h": 487.0
+      "l": 0,
+      "t": -61,
+      "w": 487,
+      "h": 487
      },
      "w": 487,
      "h": 365
@@ -93,10 +93,10 @@
      "src": "/images/kids-gruppe.jpg",
      "alt": "",
      "img": {
-      "l": 0.0,
-      "t": -61.0,
-      "w": 487.0,
-      "h": 487.0
+      "l": 0,
+      "t": -61,
+      "w": 487,
+      "h": 487
      },
      "w": 487,
      "h": 365
@@ -105,9 +105,9 @@
      "src": "/images/tennisschule-hansi-club.jpg",
      "alt": "",
      "img": {
-      "l": 0.0,
+      "l": 0,
       "t": -24.9,
-      "w": 487.0,
+      "w": 487,
       "h": 414.8
      },
      "w": 487,
@@ -131,10 +131,10 @@
    "src": "/images/magnus-norman-clubjunioren.jpg",
    "alt": "IMG-20151026-WA0001.jpg",
    "img": {
-    "l": -0.0,
-    "t": 0.0,
-    "w": 436.0,
-    "h": 327.0
+    "l": 0,
+    "t": 0,
+    "w": 436,
+    "h": 327
    }
   },
   {
@@ -176,5 +176,181 @@
     "boxSizing": "border-box"
    }
   }
- ]
+ ],
+ "mobile": {
+  "height": 1737,
+  "items": [
+   {
+    "t": "box",
+    "x": 10,
+    "y": 138,
+    "w": 300,
+    "h": 1300.3,
+    "s": {
+     "backgroundColor": "rgba(255, 255, 255, 0.6)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 20,
+    "y": 158,
+    "w": 280,
+    "h": 1280.3,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 31,
+    "y": 168,
+    "w": 260,
+    "h": 48.4,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h2 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:22px;line-height:24.2px;color:rgb(29, 67, 121)\"><span style=\"letter-spacing:4.4px\">​TENNISSCHULE/-KURSE</span></h2></div>"
+   },
+   {
+    "t": "box",
+    "x": 31,
+    "y": 236.4,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px solid rgb(29, 67, 121)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "slides",
+    "x": 31,
+    "y": 251.4,
+    "w": 260,
+    "h": 216.4,
+    "images": [
+     {
+      "src": "/images/tennisschule-hansi-vorhand.jpg",
+      "alt": "SM_HANSI_DREIFALDT_SENIORS_2017_001 .JPG",
+      "w": 288.7,
+      "h": 216.7,
+      "img": {
+       "l": -18.5,
+       "t": 0,
+       "w": 325.6,
+       "h": 216.7
+      }
+     },
+     {
+      "src": "/images/tennisschule-hansi-halle.jpg",
+      "alt": "",
+      "w": 288.7,
+      "h": 216.7,
+      "img": {
+       "l": 0,
+       "t": -68.2,
+       "w": 288.7,
+       "h": 353.2
+      }
+     },
+     {
+      "src": "/images/kids-baelle.jpg",
+      "alt": "",
+      "w": 288.7,
+      "h": 216.7,
+      "img": {
+       "l": 0,
+       "t": -36,
+       "w": 288.7,
+       "h": 288.7
+      }
+     },
+     {
+      "src": "/images/kids-gruppe.jpg",
+      "alt": "",
+      "w": 288.7,
+      "h": 216.7,
+      "img": {
+       "l": 0,
+       "t": -36,
+       "w": 288.7,
+       "h": 288.7
+      }
+     },
+     {
+      "src": "/images/tennisschule-hansi-club.jpg",
+      "alt": "",
+      "w": 288.7,
+      "h": 216.7,
+      "img": {
+       "l": 0,
+       "t": -14.6,
+       "w": 288.7,
+       "h": 245.9
+      }
+     }
+    ],
+    "arrow": {
+     "x": 214.7,
+     "y": 88.70000000000002,
+     "w": 23,
+     "h": 39,
+     "html": "<svg style=\"filter:none;width:23px;height:39px;fill:rgb(248, 248, 248);display:block;flex:none\" width=\"23\" height=\"39\" viewBox=\"0 0 23 39\"><path d=\"M857.005,231.479L858.5,230l18.124,18-18.127,18-1.49-1.48L873.638,248Z\" transform=\"translate(-855 -230)\"></path></svg>"
+    }
+   },
+   {
+    "t": "img",
+    "x": 31,
+    "y": 478.4,
+    "w": 280,
+    "h": 211,
+    "src": "/images/magnus-norman-clubjunioren.jpg",
+    "alt": "IMG-20151026-WA0001.jpg",
+    "img": {
+     "l": -0.7,
+     "t": 0,
+     "w": 281.3,
+     "h": 211
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 31,
+    "y": 699.4,
+    "w": 260,
+    "h": 596.9,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h6 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:12px;line-height:15.6px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span style=\"font-weight:700\">Unser Motto: Tennis kann jeder lernen!</span></span></h6>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:12px;line-height:15.6px;color:rgb(99, 99, 99);text-align:justify\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<span style=\"font-weight:700\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Und jeder soll Spass dabei haben!</span></span><br>\n&nbsp;</p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:12px;line-height:15.6px;color:rgb(99, 99, 99);text-align:justify\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Grundsätzlich ist es unser Ziel dem Tennisschüler das zu bieten, was er sucht und möchte. Falls er (im Weiteren ♀︎+♂︎) ohne konkrete Vorstellungen zu uns kommt, setzen wir alles daran dem Schüler die Grundbegriffe von Schlag-, Bewegungs- und Spieltechnik zu zeigen und mit ihm zu üben.</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:12px;line-height:15.6px;color:rgb(99, 99, 99);text-align:justify\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:12px;line-height:15.6px;color:rgb(99, 99, 99);text-align:justify\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Dreifaldt-Tennis betreut als lokale Tennisschule den leimentaler Tennisclub TC Leimental in Therwil. Wir bieten Einzel- und Gruppentrainings sowohl für Erwachsene, Junioren und für KIDS an. Hinzu kommen von </span><span style=\"color:rgb(91, 129, 25)\"><span style=\"font-family:wfont_f4d24a_d54bfc06b65948b89fecccc730a03ad6, wf_d54bfc06b65948b89fecccc73, orig_academic_m_54\">D-T</span></span><span style=\"font-family:&quot;times new roman&quot;, times, serif\"> organisierte Turniere und Events, samt organisierte Camps während der Ferienzeit.</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:12px;line-height:15.6px;color:rgb(99, 99, 99);text-align:justify\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">&nbsp;</span><br>\n<span style=\"font-family:&quot;times new roman&quot;, times, serif\">​In diesem Sinne ist es uns ein Anliegen, vor allem unsere jungen Kursteilnehmer mittel- bis längerfristig dazu zu bringen, sich mit anderen Spielern messen zu wollen/können und an Clubeigenen Turnieren und Events teilnehmen zu wollen/können.</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:12px;line-height:15.6px;color:rgb(99, 99, 99);text-align:justify\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:12px;line-height:15.6px;color:rgb(99, 99, 99);text-align:justify\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Als Tennisschule und Förderer des Tennis ist mir die gesunde Entwicklung des Tennisspielers genauso wichtig wie die gesunde Entwicklung des Tennisclubs. Sie beide formen unsere existentielle Grundlage für die Zukunft.</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:12px;line-height:15.6px;color:rgb(99, 99, 99);text-align:justify\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:11px;line-height:14.3px;color:rgb(99, 99, 99);text-align:justify\"><span style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:12px\">Hansi Dreifaldt .&nbsp;</span><br>\n&nbsp;</p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:11px;line-height:14.3px;color:rgb(99, 99, 99);text-align:justify\"><span style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:12px\">Falls euch ein Kurs oder Angebot anspricht, könnt ihr euch oder eure Kinder mit dem entsprechenden Anmeldeformular (s.u.) mit einer Email oder WhatsApp anmelden. Bei allfälligen Fragen, könnt ihr mich auch einfach anrufen <a href=\"tel:(079 322 2626)\" style=\"\">(079 322 2626)</a>.&nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:12px;line-height:15.6px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​</span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 31,
+    "y": 1306.3,
+    "w": 260,
+    "h": 60,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:14px;line-height:14px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><span style=\"font-size:11px\">Die beiden Schweden, Magnus Norman (Ex ATP Nr. 2 der Welt, Trainer von Stan Wawrinka) und Hansi Dreifaldt (Trainer des&nbsp;</span><span style=\"font-size:11px\">therwiler Tennisclubs Leimental)</span><span style=\"font-size:11px\">&nbsp;trainierten an einem Sommerabend mit Clubjunioren.&nbsp;</span></span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "button",
+    "x": 31,
+    "y": 1386.3,
+    "w": 280,
+    "h": 42,
+    "html": "<a href=\"/files/kostenuebersicht-kurse-anmeldeformulare.pdf\" target=\"_blank\" aria-label=\"Kostenübersicht der Kurse und Anmeldeformulare\" style=\"height:100%;font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;background-color:rgba(0, 0, 0, 0);background-image:linear-gradient(150deg, rgba(131, 245, 235, 0.82) 0%, rgba(181, 243, 149, 0.82) 100%);background-size:auto;background-position:0% 0%;background-repeat:repeat;display:block;box-sizing:border-box;width:100%\"><span style=\"display:flex;align-items:center;justify-content:center;height:100%\"><span style=\"font-family:avenir-lt-w01_35-light1475496, sans-serif;font-size:12px;text-align:center;text-transform:uppercase;white-space:nowrap;margin-right:1px;display:block\">Kostenübersicht der Kurse und Anmeldeformulare</span><span style=\"margin-left:1px;display:block\"><span style=\"display:flex;height:100%\"><svg data-bbox=\"13.05 2.55 33.878 54.8\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 60 60\" style=\"width:40px;height:40px;fill:rgb(0, 0, 0);display:flex;flex:none\">\n    <g>\n        <path d=\"M46.5 28.9L20.6 3c-.6-.6-1.6-.6-2.2 0l-4.8 4.8c-.6.6-.6 1.6 0 2.2l19.8 20-19.9 19.9c-.6.6-.6 1.6 0 2.2l4.8 4.8c.6.6 1.6.6 2.2 0l21-21 4.8-4.8c.8-.6.8-1.6.2-2.2z\"></path>\n    </g>\n</svg>\n</span></span></span></a>"
+   },
+   {
+    "t": "box",
+    "x": 10,
+    "y": 1438.3,
+    "w": 300,
+    "h": 299,
+    "s": {
+     "backgroundColor": "rgba(255, 255, 255, 0.6)",
+     "boxSizing": "border-box"
+    }
+   }
+  ]
+ }
 }

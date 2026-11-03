@@ -35,9 +35,9 @@
    "src": "/images/hansi-dreifaldt-portrait.jpg",
    "alt": "Screenshot_20221030-164424_Gallery.jpg",
    "img": {
-    "l": 0.0,
+    "l": 0,
     "t": -92.4,
-    "w": 364.0,
+    "w": 364,
     "h": 808.9
    }
   },
@@ -113,9 +113,9 @@
    "src": "/images/icon-formular.png",
    "alt": "",
    "img": {
-    "l": 0.0,
+    "l": 0,
     "t": -11.1,
-    "w": 40.0,
+    "w": 40,
     "h": 54.3
    }
   },
@@ -339,9 +339,9 @@
    "alt": "",
    "href": "/files/casino-royale-2026.pdf",
    "img": {
-    "l": 0.0,
+    "l": 0,
     "t": -0.1,
-    "w": 292.0,
+    "w": 292,
     "h": 50.2
    }
   },
@@ -498,5 +498,435 @@
     "boxSizing": "border-box"
    }
   }
- ]
+ ],
+ "mobile": {
+  "height": 2780,
+  "items": [
+   {
+    "t": "box",
+    "x": 10,
+    "y": 138,
+    "w": 300,
+    "h": 2343.2,
+    "s": {
+     "backgroundColor": "rgba(248, 248, 248, 0.65)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 21,
+    "y": 138,
+    "w": 280,
+    "h": 1000.4,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "img",
+    "x": 32,
+    "y": 146,
+    "w": 251,
+    "h": 429,
+    "src": "/images/hansi-dreifaldt-portrait.jpg",
+    "alt": "Screenshot_20221030-164424_Gallery.jpg",
+    "img": {
+     "l": 0,
+     "t": -64.4,
+     "w": 251,
+     "h": 557.8
+    }
+   },
+   {
+    "t": "box",
+    "x": 15,
+    "y": 629.4,
+    "w": 10,
+    "h": 20,
+    "s": {
+     "borderTop": "10px solid rgba(7, 126, 170, 0)",
+     "borderBottom": "10px solid rgba(0, 0, 0, 0)",
+     "borderLeft": "10px solid rgba(0, 0, 0, 0)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 291,
+    "y": 629.4,
+    "w": 10,
+    "h": 20,
+    "s": {
+     "borderTop": "10px solid rgb(128, 160, 206)",
+     "borderRight": "10px solid rgba(0, 0, 0, 0)",
+     "borderBottom": "10px solid rgba(0, 0, 0, 0)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 15,
+    "y": 587,
+    "w": 286,
+    "h": 42.4,
+    "s": {
+     "backgroundColor": "rgb(29, 67, 121)",
+     "boxShadow": "rgba(0, 0, 0, 0.5) 0px 1px 4px 0px",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 21,
+    "y": 597,
+    "w": 280,
+    "h": 21.4,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h5 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:17px;line-height:20.4px;color:rgb(99, 99, 99)\"><span style=\"color:rgb(255, 255, 255)\">&nbsp;<span style=\"font-family:&quot;comic sans ms&quot;, comic-sans-w01-regular, comic-sans-w02-regular, comic-sans-w10-regular, cursive\">Willkommen bei Dreifaldt Tennis</span></span></h5></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 33,
+    "y": 644.4,
+    "w": 260,
+    "h": 312,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:20px;line-height:26px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Willkommen bei Dreifaldt Tennis, der Tennisschule im Tennisclub Leimental. Hier lernst Du Tennis zu spielen. Schau Dir unsere Kurse und Aktivitäten an, lies etwas über unsere Updates und News, Trainer, Erfahrungen und Angebote, und/oder nimm mit uns Kontakt auf, um mehr über das was Dich interessiert zu erfahren.</span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "button",
+    "x": 32,
+    "y": 966.4,
+    "w": 260,
+    "h": 48,
+    "html": "<a href=\"/files/jahreskalender-2026.pdf\" target=\"_blank\" aria-label=\"Jahreskalender der Tennisschule\" style=\"height:100%;font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;background-color:rgb(43, 101, 181);background-image:url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAANcCAYAAACe7cU9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYxIDY0LjE0MDk0OSwgMjAxMC8xMi8wNy0xMDo1NzowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo0RjgyM0FDRjc4NTVFMTExQURCRUEwRDE2OEU2QjI4MyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo5NDBENTY2NDVFMjgxMUUxOEYyN0RERTkzNTlCQjM3MCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo5NDBENTY2MzVFMjgxMUUxOEYyN0RERTkzNTlCQjM3MCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1LjEgV2luZG93cyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjU4ODIzQUNGNzg1NUUxMTFBREJFQTBEMTY4RTZCMjgzIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjRGODIzQUNGNzg1NUUxMTFBREJFQTBEMTY4RTZCMjgzIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+sD/S8AAAAG1JREFUeNrsz7EOgCAMBNCr/v/op6rRCDV1KMFUYHM5hpfLtR2Aqi4TADF2ZzU25zBO4zLSIM9ydspt7ietb1PdlYS6GwWOBgnNjhBCCCGEEEII+Z2vJ8GyBOk1lWCv3Y2C/iD64GTMngp6CzAA8Uw7zZmpz8kAAAAASUVORK5CYII=&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.6) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Jahreskalender der Tennisschule</span></a>"
+   },
+   {
+    "t": "html",
+    "k": "button",
+    "x": 32,
+    "y": 1024.4,
+    "w": 260,
+    "h": 48,
+    "html": "<a href=\"/anmeldungen\" aria-label=\"   Alle Anmeldeformulare\" style=\"height:100%;font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;background-color:rgb(43, 101, 181);background-image:url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAANcCAYAAACe7cU9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYxIDY0LjE0MDk0OSwgMjAxMC8xMi8wNy0xMDo1NzowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo0RjgyM0FDRjc4NTVFMTExQURCRUEwRDE2OEU2QjI4MyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo5NDBENTY2NDVFMjgxMUUxOEYyN0RERTkzNTlCQjM3MCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo5NDBENTY2MzVFMjgxMUUxOEYyN0RERTkzNTlCQjM3MCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1LjEgV2luZG93cyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjU4ODIzQUNGNzg1NUUxMTFBREJFQTBEMTY4RTZCMjgzIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjRGODIzQUNGNzg1NUUxMTFBREJFQTBEMTY4RTZCMjgzIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+sD/S8AAAAG1JREFUeNrsz7EOgCAMBNCr/v/op6rRCDV1KMFUYHM5hpfLtR2Aqi4TADF2ZzU25zBO4zLSIM9ydspt7ietb1PdlYS6GwWOBgnNjhBCCCGEEEII+Z2vJ8GyBOk1lWCv3Y2C/iD64GTMngp6CzAA8Uw7zZmpz8kAAAAASUVORK5CYII=&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.6) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">   Alle Anmeldeformulare</span></a>"
+   },
+   {
+    "t": "img",
+    "x": 36,
+    "y": 1035.4,
+    "w": 34,
+    "h": 26,
+    "src": "/images/icon-formular.png",
+    "alt": "",
+    "img": {
+     "l": 0,
+     "t": -10.1,
+     "w": 34,
+     "h": 46.1
+    }
+   },
+   {
+    "t": "html",
+    "k": "button",
+    "x": 32,
+    "y": 1081.4,
+    "w": 260,
+    "h": 47,
+    "html": "<a href=\"/tennisclubs\" aria-label=\"Tennisclub Leimental\" style=\"height:100%;font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 238);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;background-color:rgb(10, 190, 255);background-image:url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAANcCAYAAACe7cU9AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYxIDY0LjE0MDk0OSwgMjAxMC8xMi8wNy0xMDo1NzowMSAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo0RjgyM0FDRjc4NTVFMTExQURCRUEwRDE2OEU2QjI4MyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDo5NDBENTY2NDVFMjgxMUUxOEYyN0RERTkzNTlCQjM3MCIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDo5NDBENTY2MzVFMjgxMUUxOEYyN0RERTkzNTlCQjM3MCIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1LjEgV2luZG93cyI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOjU4ODIzQUNGNzg1NUUxMTFBREJFQTBEMTY4RTZCMjgzIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjRGODIzQUNGNzg1NUUxMTFBREJFQTBEMTY4RTZCMjgzIi8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+sD/S8AAAAG1JREFUeNrsz7EOgCAMBNCr/v/op6rRCDV1KMFUYHM5hpfLtR2Aqi4TADF2ZzU25zBO4zLSIM9ydspt7ietb1PdlYS6GwWOBgnNjhBCCCGEEEII+Z2vJ8GyBOk1lWCv3Y2C/iD64GTMngp6CzAA8Uw7zZmpz8kAAAAASUVORK5CYII=&quot;);background-size:auto;background-position:50% 0%;background-repeat:repeat-x;box-shadow:rgba(0, 0, 0, 0.3) 0px 1px 4px 0px;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:100%\"><span style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(255, 255, 255);white-space:nowrap;display:block\">Tennisclub Leimental</span></a>"
+   },
+   {
+    "t": "box",
+    "x": 22,
+    "y": 1161.4,
+    "w": 280,
+    "h": 1299.8,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 34,
+    "y": 1189.4,
+    "w": 260,
+    "h": 24.4,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h6 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;comic sans ms&quot;, comic-sans-w01-regular, comic-sans-w02-regular, comic-sans-w10-regular, cursive\">News der Tennisschule</span></h6></div>"
+   },
+   {
+    "t": "box",
+    "x": 34,
+    "y": 1226.8,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px solid rgb(29, 67, 121)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 34,
+    "y": 1257.8,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 32,
+    "y": 1272.8,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 34,
+    "y": 1287.8,
+    "w": 231,
+    "h": 24.4,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h6 style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:18px;line-height:23.4px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;comic sans ms&quot;, comic-sans-w01-regular, comic-sans-w02-regular, comic-sans-w10-regular, cursive\">Unsere Adresse(n)</span></h6></div>"
+   },
+   {
+    "t": "box",
+    "x": 33,
+    "y": 1325.2,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px solid rgb(29, 67, 121)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 32,
+    "y": 1340.2,
+    "w": 260,
+    "h": 92,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h2 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:18px;color:rgb(29, 67, 121)\"><span style=\"font-family:&quot;comic sans ms&quot;, comic-sans-w01-regular, comic-sans-w02-regular, comic-sans-w10-regular, cursive\">News And Views der Tennisschule</span><br>\n<br>\n&nbsp;</h2></div>"
+   },
+   {
+    "t": "img",
+    "x": 122,
+    "y": 1442.2,
+    "w": 80,
+    "h": 118,
+    "src": "/images/icon-news-pdf.png",
+    "alt": "News And Views Okt. '26. pdf.pdf",
+    "img": {
+     "l": 0,
+     "t": 19,
+     "w": 80,
+     "h": 80
+    },
+    "href": "/files/news-and-views-oktober-2026.pdf"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 33,
+    "y": 1575.2,
+    "w": 260,
+    "h": 24,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h2 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:17px;color:rgb(29, 67, 121)\"><span style=\"font-family:&quot;comic sans ms&quot;, comic-sans-w01-regular, comic-sans-w02-regular, comic-sans-w10-regular, cursive\">Beim TC Leimental, Therwil</span></h2></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 34,
+    "y": 1619.2,
+    "w": 260,
+    "h": 102.5,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Dreifaldt Tennis beim TC Leimental</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Birsmattstrasse 60 &nbsp;&nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​4106 Therwil</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​Tel.: <a href=\"tel:+41 79 322 2626\" style=\"\">+41 79 322 2626</a>&nbsp; &nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><a href=\"mailto:tshd@bluewin.ch\" style=\"\">tshd@bluewin.ch</a></span></p></div>"
+   },
+   {
+    "t": "box",
+    "x": 34,
+    "y": 1733.7,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 32,
+    "y": 1748.7,
+    "w": 260,
+    "h": 22,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h1 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:20px;line-height:22px;color:rgb(29, 67, 121);text-align:center\"><span style=\"font-weight:700\">21. Nov. 2026</span></h1></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 33,
+    "y": 1780.7,
+    "w": 260,
+    "h": 24,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h2 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:17px;color:rgb(29, 67, 121)\"><span style=\"font-family:&quot;comic sans ms&quot;, comic-sans-w01-regular, comic-sans-w02-regular, comic-sans-w10-regular, cursive\">Beim VITIS in Allschwil</span></h2></div>"
+   },
+   {
+    "t": "html",
+    "k": "button",
+    "x": 42,
+    "y": 1814.7,
+    "w": 240,
+    "h": 42,
+    "html": "<a href=\"/files/casino-royale-2026.pdf\" target=\"_blank\" aria-label=\"CASINO ROYALE\" style=\"height:100%;font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;background-color:rgb(248, 248, 248);border-top:1px solid rgb(43, 101, 181);border-right:1px solid rgb(43, 101, 181);border-bottom:1px solid rgb(43, 101, 181);border-left:1px solid rgb(43, 101, 181);display:block;box-sizing:border-box;width:100%\"><span style=\"display:flex;align-items:center;justify-content:center;height:100%\"><span style=\"font-family:verdana, geneva, sans-serif;font-size:12px;letter-spacing:1.2px;color:rgb(43, 101, 181);text-align:center;white-space:nowrap;margin-right:7.5px;display:block\">CASINO ROYALE</span><span style=\"margin-left:7.5px;display:block\"><span style=\"display:flex;height:100%\"><svg data-bbox=\"13.05 2.55 33.878 54.8\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 60 60\" style=\"width:12px;height:12px;fill:rgb(43, 101, 181);display:flex;flex:none\">\n    <g>\n        <path d=\"M46.5 28.9L20.6 3c-.6-.6-1.6-.6-2.2 0l-4.8 4.8c-.6.6-.6 1.6 0 2.2l19.8 20-19.9 19.9c-.6.6-.6 1.6 0 2.2l4.8 4.8c.6.6 1.6.6 2.2 0l21-21 4.8-4.8c.8-.6.8-1.6.2-2.2z\"></path>\n    </g>\n</svg>\n</span></span></span></a>"
+   },
+   {
+    "t": "img",
+    "x": 62,
+    "y": 1866.7,
+    "w": 200,
+    "h": 34,
+    "src": "/images/casino-royale.png",
+    "alt": "",
+    "img": {
+     "l": 0,
+     "t": -0.2,
+     "w": 200,
+     "h": 34.4
+    },
+    "href": "/files/casino-royale-2026.pdf"
+   },
+   {
+    "t": "box",
+    "x": 32,
+    "y": 1910.7,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 34,
+    "y": 1925.7,
+    "w": 260,
+    "h": 102.5,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Dreifaldt Tennis beim VITIS</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Hegenheimermattweg 121 &nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">4123 Allschwil</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​Tel.: <a href=\"tel:+41 79 322 2626\" style=\"\">+41 79 322 2626</a>&nbsp; &nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:15px;line-height:19.5px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\"><a href=\"mailto:tshd@bluewin.ch\" style=\"\">tshd@bluewin.ch</a></span></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 32,
+    "y": 2038.2,
+    "w": 260,
+    "h": 24,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h2 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:17px;color:rgb(29, 67, 121)\"><span style=\"font-family:&quot;comic sans ms&quot;, comic-sans-w01-regular, comic-sans-w02-regular, comic-sans-w10-regular, cursive\">Büro und Administration</span></h2></div>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 32,
+    "y": 2082.2,
+    "w": 260,
+    "h": 109,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Dreifaldt Tennis</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">Hüsliackerweg 10&nbsp; &nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​4105 Biel-Benken&nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">​Tel.: <a href=\"tel:+41 79 322 2626\" style=\"\">+41 79 322 2626</a>&nbsp; &nbsp;</span></p>\n\n<p style=\"font-family:&quot;open sans&quot;, sans-serif;font-size:16px;line-height:20.8px;color:rgb(99, 99, 99)\"><a href=\"mailto:tshd@bluewin.ch\" style=\"\"><span style=\"color:rgb(29, 67, 121)\"><span style=\"text-decoration-line:underline\"><span style=\"font-family:&quot;times new roman&quot;, times, serif\">tshd@bluewin.ch</span></span></span></a></p></div>"
+   },
+   {
+    "t": "html",
+    "k": "button",
+    "x": 42,
+    "y": 2201.2,
+    "w": 240,
+    "h": 42,
+    "html": "<a href=\"/files/wintertraining-2027.pdf\" target=\"_blank\" aria-label=\"Info und Anmeldung hier\" style=\"height:100%;font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;background-color:rgb(248, 248, 248);border-top:1px solid rgb(43, 101, 181);border-right:1px solid rgb(43, 101, 181);border-bottom:1px solid rgb(43, 101, 181);border-left:1px solid rgb(43, 101, 181);display:block;box-sizing:border-box;width:100%\"><span style=\"display:flex;align-items:center;justify-content:center;height:100%\"><span style=\"font-family:verdana, geneva, sans-serif;font-size:12px;letter-spacing:1.2px;color:rgb(43, 101, 181);text-align:center;white-space:nowrap;margin-right:2px;display:block\">Info und Anmeldung hier</span><span style=\"margin-left:2px;display:block\"><span style=\"display:flex;height:100%\"><svg data-bbox=\"13.05 2.55 33.878 54.8\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 60 60\" style=\"width:12px;height:12px;fill:rgb(43, 101, 181);display:flex;flex:none\">\n    <g>\n        <path d=\"M46.5 28.9L20.6 3c-.6-.6-1.6-.6-2.2 0l-4.8 4.8c-.6.6-.6 1.6 0 2.2l19.8 20-19.9 19.9c-.6.6-.6 1.6 0 2.2l4.8 4.8c.6.6 1.6.6 2.2 0l21-21 4.8-4.8c.8-.6.8-1.6.2-2.2z\"></path>\n    </g>\n</svg>\n</span></span></span></a>"
+   },
+   {
+    "t": "box",
+    "x": 32,
+    "y": 2253.2,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 32,
+    "y": 2268.2,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px dotted rgb(10, 190, 255)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 34,
+    "y": 2283.2,
+    "w": 260,
+    "h": 5,
+    "s": {
+     "borderTop": "1px solid rgb(99, 99, 99)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "box",
+    "x": 34,
+    "y": 2307.2,
+    "w": 260,
+    "h": 99,
+    "s": {
+     "backgroundColor": "rgb(29, 67, 121)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "html",
+    "k": "button",
+    "x": 62,
+    "y": 2326.2,
+    "w": 200,
+    "h": 42,
+    "html": "<a href=\"/kontaktieren-sie-uns\" aria-label=\"KONTAKTIEREN SIE UNS\" style=\"height:100%;font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:none;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;background-color:rgb(248, 248, 248);border-top:1px solid rgb(43, 101, 181);border-right:1px solid rgb(43, 101, 181);border-bottom:1px solid rgb(43, 101, 181);border-left:1px solid rgb(43, 101, 181);display:block;box-sizing:border-box;width:100%\"><span style=\"display:flex;align-items:center;justify-content:center;height:100%\"><span style=\"font-family:verdana, geneva, sans-serif;font-size:12px;letter-spacing:1.2px;color:rgb(43, 101, 181);text-align:center;white-space:nowrap;margin-right:2px;display:block\">KONTAKTIEREN SIE UNS</span><span style=\"margin-left:2px;display:block\"><span style=\"display:flex;height:100%\"><svg data-bbox=\"13.05 2.55 33.878 54.8\" xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 60 60\" style=\"width:12px;height:12px;fill:rgb(43, 101, 181);display:flex;flex:none\">\n    <g>\n        <path d=\"M46.5 28.9L20.6 3c-.6-.6-1.6-.6-2.2 0l-4.8 4.8c-.6.6-.6 1.6 0 2.2l19.8 20-19.9 19.9c-.6.6-.6 1.6 0 2.2l4.8 4.8c.6.6 1.6.6 2.2 0l21-21 4.8-4.8c.8-.6.8-1.6.2-2.2z\"></path>\n    </g>\n</svg>\n</span></span></span></a>"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 40,
+    "y": 2376.2,
+    "w": 240,
+    "h": 17,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><p style=\"font-family:verdana, geneva, sans-serif;font-size:14px;color:rgb(99, 99, 99);text-align:center\"><span style=\"color:rgb(255, 255, 255)\">﻿﻿© 2022 by Hansi Dreifaldt&nbsp;</span></p></div>"
+   },
+   {
+    "t": "box",
+    "x": 10,
+    "y": 2481.2,
+    "w": 300,
+    "h": 299,
+    "s": {
+     "backgroundColor": "rgba(255, 255, 255, 0.6)",
+     "boxSizing": "border-box"
+    }
+   }
+  ]
+ }
 }

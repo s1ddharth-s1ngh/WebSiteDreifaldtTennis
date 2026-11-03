@@ -46,5 +46,57 @@
     "boxSizing": "border-box"
    }
   }
- ]
+ ],
+ "mobile": {
+  "height": 678,
+  "items": [
+   {
+    "t": "box",
+    "x": 10,
+    "y": 138,
+    "w": 300,
+    "h": 241,
+    "s": {
+     "backgroundColor": "rgb(248, 248, 248)",
+     "boxSizing": "border-box"
+    }
+   },
+   {
+    "t": "img",
+    "x": 120,
+    "y": 158,
+    "w": 80,
+    "h": 135,
+    "src": "/images/icon-pdf.png",
+    "alt": "MIAMI 22.01.26.pdf",
+    "img": {
+     "l": 0,
+     "t": 13.8,
+     "w": 80,
+     "h": 107.4
+    },
+    "href": "/files/miami-methode.pdf"
+   },
+   {
+    "t": "html",
+    "k": "text",
+    "x": 20,
+    "y": 308,
+    "w": 280,
+    "h": 51,
+    "html": "<div style=\"font-family:Arial, Helvetica, sans-serif;font-size:10px;font-weight:400;font-style:normal;line-height:normal;letter-spacing:normal;color:rgb(0, 0, 0);text-align:start;text-transform:none;text-shadow:rgba(0, 0, 0, 0) 0px 0px 0px, rgba(0, 0, 0, 0) 0px 0px 0px;white-space:normal;word-spacing:0px;direction:ltr;text-indent:0px;list-style-type:disc;list-style-position:outside;box-sizing:border-box;width:100%\"><h2 style=\"font-family:&quot;times new roman&quot;, times, serif;font-size:21px;color:rgb(29, 67, 121)\"><span style=\"color:rgb(50, 50, 50)\"><span style=\"letter-spacing:0.21px\"><span style=\"font-family:helvetica-w01-bold, helvetica-w02-bold, helvetica-lt-w10-bold, sans-serif\">M I A M I - Methode</span></span></span><br>\n&nbsp;</h2></div>"
+   },
+   {
+    "t": "box",
+    "x": 10,
+    "y": 379,
+    "w": 300,
+    "h": 299,
+    "s": {
+     "backgroundColor": "rgba(255, 255, 255, 0.6)",
+     "boxSizing": "border-box"
+    }
+   }
+  ]
+ }
 }
