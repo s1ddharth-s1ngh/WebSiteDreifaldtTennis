@@ -23,8 +23,8 @@ const decode = (s) =>
     .replace(/&#x([0-9a-f]+);/gi, (_, h) => String.fromCodePoint(parseInt(h, 16)))
     .replace(/&#(\d+);/g, (_, d) => String.fromCodePoint(Number(d)))
     .replace(/&(\w+);/g, (m, n) => entities[n] ?? m);
-// Vergleich ohne Leerraum und ohne Wix-Füllzeichen (Zero-Width-Space, BOM).
-const norm = (s) => s.replace(/[\s​﻿]+/g, "");
+// Vergleich ohne Leerraum, ohne Wix-Füllzeichen (Zero-Width-Space, BOM) und ohne Gross/Klein (Wix-text.txt enthält CSS text-transform).
+const norm = (s) => s.replace(/[\s​﻿]+/g, "").toLowerCase();
 
 let missingTotal = 0;
 for (const [slug, route] of Object.entries(routes)) {

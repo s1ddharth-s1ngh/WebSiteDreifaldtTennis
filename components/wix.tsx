@@ -142,7 +142,11 @@ function Background({ kind }: { kind: Page["background"] }) {
   return (
     <div className="wx-bg" aria-hidden>
       {kind === "miami" ? (
-        <video src={url("/videos/miami-meer.mp4")} poster={url("/images/miami-meer.jpg")} autoPlay muted loop playsInline />
+        <>
+          {/* Wie Wix: Video nur im Desktop-Layout, auf Smartphones das Standbild */}
+          <video className="wx-d" src={url("/videos/miami-meer.mp4")} poster={url("/images/miami-meer.jpg")} autoPlay muted loop playsInline />
+          <Image className="wx-m" src={url("/images/miami-meer.jpg")} alt="" fill sizes="100vw" style={{ objectFit: "cover" }} />
+        </>
       ) : (
         <Image src={url("/images/hero-tennisnetz-wappen.jpg")} alt="" fill priority sizes="100vw" style={{ objectFit: "cover" }} />
       )}
@@ -171,14 +175,20 @@ export function WixPage({ page }: { page: Page }) {
     <>
       <Background kind={page.background} />
       <div className="wx-page wx-d" style={{ height: page.height }}>
+        <a className="wx-skip" href="#main">Weiter zum Hauptinhalt</a>
         <Items items={header.items as Item[]} />
         <Menu route={page.route} />
-        <Items items={page.items} />
+        <main id="main" tabIndex={-1}>
+          <Items items={page.items} />
+        </main>
       </div>
       <div className="wx-page wx-m" style={{ height: page.mobile.height }}>
+        <a className="wx-skip" href="#main-m">Weiter zum Hauptinhalt</a>
         <Items items={header.mobile as Item[]} />
         <MobileMenu route={page.route} entries={mobileMenu} />
-        <Items items={page.mobile.items} />
+        <main id="main-m" tabIndex={-1}>
+          <Items items={page.mobile.items} />
+        </main>
       </div>
       <ChatButton />
       <QuickActions />

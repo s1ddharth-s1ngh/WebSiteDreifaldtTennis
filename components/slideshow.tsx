@@ -1,5 +1,6 @@
 "use client";
-// Wix Pro-Gallery "Slideshow": wechselt alle 3 s, Pfeil = nächstes Bild.
+// Wix Pro-Gallery "Slideshow": wechselt alle 3 s bis zum letzten Bild (kein Loop).
+// Wie bei Wix: Pfeil zurück ab dem zweiten Bild (gespiegelt), Pfeil vor bis zum vorletzten.
 import Image from "next/image";
 import { useEffect, useState, type CSSProperties } from "react";
 import { url } from "./base-path";
@@ -11,11 +12,13 @@ const GAP = 4; // Wix imageMargin
 
 export function Slideshow({ images, arrow, style, eager }: { images: Slide[]; arrow?: Arrow; style: CSSProperties; eager?: boolean }) {
   const [i, setI] = useState(0);
-  const next = () => setI((n) => (n + 1) % images.length);
+  const last = images.length - 1;
   useEffect(() => {
-    const t = setInterval(() => setI((n) => (n + 1) % images.length), 3000);
-    return () => clearInterval(t);
-  }, [i, images.length]);
+    if (i === last) return;
+    const t = setTimeout(() => setI(i + 1), 3000);
+    return () => clearTimeout(t);
+  }, [i, last]);
+  const arrowStyle = (left: number): CSSProperties => ({ position: "absolute", left, top: arrow?.y, width: arrow?.w, height: arrow?.h, cursor: "pointer" });
 
   return (
     <div style={{ ...style, overflow: "hidden" }}>
@@ -33,12 +36,21 @@ export function Slideshow({ images, arrow, style, eager }: { images: Slide[]; ar
           </div>
         ))}
       </div>
-      {arrow && (
+      {arrow && i > 0 && (
+        <button
+          type="button"
+          aria-label="Vorheriges Bild"
+          onClick={() => setI(i - 1)}
+          style={{ ...arrowStyle(Number(style.width) - arrow.x - arrow.w), transform: "scaleX(-1)" }}
+          dangerouslySetInnerHTML={{ __html: arrow.html }}
+        />
+      )}
+      {arrow && i < last && (
         <button
           type="button"
           aria-label="Nächstes Bild"
-          onClick={next}
-          style={{ position: "absolute", left: arrow.x, top: arrow.y, width: arrow.w, height: arrow.h, cursor: "pointer" }}
+          onClick={() => setI(i + 1)}
+          style={arrowStyle(arrow.x)}
           dangerouslySetInnerHTML={{ __html: arrow.html }}
         />
       )}
